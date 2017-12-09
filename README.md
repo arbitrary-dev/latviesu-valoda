@@ -5,4 +5,4 @@ Es nezinu latviešu valodu, tāpēc nododiet sūdzības par šo mācību līdzek
 savū... šo repozitorija "Issues" nodaļū.
 
 Tātad, sāksim!
-1. Alfabēts
+1. [Alfabēts](01-alfabets.md)
