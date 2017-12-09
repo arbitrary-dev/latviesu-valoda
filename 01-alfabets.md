@@ -2,6 +2,7 @@
 ===========
 
 <kbd>Shift</kbd>+<kbd>klikšķis</kbd> lai klausīt burtu izrunāšanu.
+
 | | | | |
 |:-:|:-:|:-:|:-:|
 | [A Ā](https://youtu.be/riqfSaT8hJ0?t=4)  | [B](https://youtu.be/riqfSaT8hJ0?t=11)    | [C Č](https://youtu.be/riqfSaT8hJ0?t=15) | [D](https://youtu.be/riqfSaT8hJ0?t=26)    |
