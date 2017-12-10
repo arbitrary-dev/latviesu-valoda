@@ -12,7 +12,9 @@ Kā mācīties
 1. Izmanto [tulkotāju](https://translate.google.lv/#lv/en/Gudrinieks!)
 2. Lejupielādē [Anki](https://apps.ankiweb.net) un latviešu valodu
 [kāršu komplektu](https://ankiweb.net/shared/info/387126451)
-3. Reģistrē Rīgas domes valodu kursos, viņas ir bezmaksas
+3. Reģistrē Rīgas domes
+[valodu kursos](http://www.kultura.riga.lv/public/65612.html),
+viņas ir bezmaksas
 
 Saturs
 -------
