@@ -13,8 +13,8 @@ Ir septiņi locījumi:
 
 Un seši lietvārdu deklinācijas:
 
-||I|II|III|IV|V|VI|
-||:-:|:-:|:-:|:-:|:-:|:-:|
+| |I|II|III|IV|V|VI|
+|---|:-:|:-:|:-:|:-:|:-:|:-:|
 |**N**|-s/š|-is|-us|-a|-e|-s|
 |**Ģ**|-a|-a\*|-us|-as|-es|-s|
 |**D**|-am|-im|-um|-ai|-ei|-ij|
