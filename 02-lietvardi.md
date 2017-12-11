@@ -4,13 +4,13 @@ Lietvārdi
 Locījumi
 --------
 
-**Nominatīvs** – *kas?*  
-**Ģenitīvs** – *kā?*  
-**Datīvs** – *kam?*  
-**Akuzatīvs** – *ko?*  
-**Instrumentālis** – *ar ko?*  
-**Lokatīvs** – *kur?*  
-**Vokatīvs** – bez jautājuma
+- **Nominatīvs** – *kas?*
+- **Ģenitīvs** – *kā?*
+- **Datīvs** – *kam?*
+- **Akuzatīvs** – *ko?*
+- **Instrumentālis** – *ar ko?*
+- **Lokatīvs** – *kur?*
+- **Vokatīvs** – bez jautājuma
 
 Deklinācijas
 ------------
@@ -24,4 +24,5 @@ Vienskaitlis
 | **D** | -am   | -im   | -um   | -ai   | -ei   | -ij   |
 | **A** | -u    | -i    | -u    | -u    | -i    | -i    |
 | **I** | ar -u | ar -i | ar -u | ar -u | ar -i | ar -i |
-| **V** | -ā    | -ī    | -ū    | -ā    | -ē    | -ī    |
+| **L** | -ā    | -ī    | -ū    | -ā    | -ē    | -ī    |
+| **V** | -s/š  | -i    | -u    | -a    | -e    | -s    |
