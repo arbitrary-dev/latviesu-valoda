@@ -4,12 +4,12 @@ Lietvārdi
 Locījumi
 --------
 
-**Nominatīvs** – *kas?*
-**Ģenitīvs** – *kā?*
-**Datīvs** – *kam?*
-**Akuzatīvs** – *ko?*
-**Instrumentālis** – *ar ko?*
-**Lokatīvs** – *kur?*
+**Nominatīvs** – *kas?*  
+**Ģenitīvs** – *kā?*  
+**Datīvs** – *kam?*  
+**Akuzatīvs** – *ko?*  
+**Instrumentālis** – *ar ko?*  
+**Lokatīvs** – *kur?*  
 **Vokatīvs** – bez jautājuma
 
 Deklinācijas
