@@ -20,3 +20,4 @@ Saturs
 -------
 
 1. [Alfabēts](01-alfabets.md)
+2. [Lietvārdi][02-lietvardi.md]
