@@ -39,4 +39,7 @@ Daudzskaitlis
 | **L** | -os          | -ās    | -ēs    | -īs    |
 | **V** | -i           | -as    | -es    | -is    |
 
-*\* – līdzskaņu mija*
+*\* – līdzskaņu pret galotni mija*
+
+I, II un III ir vīriešu dzimtes lietvārdi.  
+IV, V un VI ir pārsvari sieviešu dzimtes lietvārdi.
