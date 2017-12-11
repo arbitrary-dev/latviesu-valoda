@@ -1,17 +1,19 @@
 Lietvārdi
 =========
 
-Ir septiņi locījumi:
+Locījumi
+--------
 
-1. Nominatīvs – *kas?*
-2. Ģenitīvs – *kā?*
-3. Datīvs – *kam?*
-4. Akuzatīvs – *ko?*
-5. Instrumentālis – *ar ko?*
-6. Lokatīvs – *kur?*
-7. Vokatīvs – bez jautājuma
+- **Nominatīvs** – *kas?*
+- **Ģenitīvs** – *kā?*
+- **Datīvs** – *kam?*
+- **Akuzatīvs** – *ko?*
+- **Instrumentālis** – *ar ko?*
+- **Lokatīvs** – *kur?*
+- **Vokatīvs** – bez jautājuma
 
-Un seši lietvārdu deklinācijas:
+Deklinācijas
+------------
 
 | |I|II|III|IV|V|VI|
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
