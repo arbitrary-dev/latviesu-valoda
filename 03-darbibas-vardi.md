@@ -6,4 +6,4 @@ Deklinācijas
 
 | | I | II | III |
 |-|:-:|:-:|:-:|
-|**Tagadne**|es<br>tu|||
+|<span style="display:block;transform:rotate(-90deg)">**Tagadne**</span>|es<br>tu|||
