@@ -22,4 +22,4 @@ Atgriezeniskie
 | **Pagātne** | es<br>tu<br>v.v.<br>mēs<br>jūs | -os<br>-ies<br>-ās<br>-āmies<br>-āties                | -jos<br>-jies<br>-jās<br>-jāmies<br>-jāties           | -jos<br>-jies<br>-jās<br>-jāmies<br>-jāties                                                  |
 | **Nākotne** | es<br>tu<br>v.v.<br>mēs<br>jūs | -šos<br>-sies<br>-sies<br>-simies<br>-sieties -sities | -šos<br>-sies<br>-sies<br>-simies<br>-sieties -sities | -šos<br>-sies<br>-sies<br>-simies<br>-sieties -sities                                        |
 
-*<sup>0</sup> – viņš, viņa, viņi, viņas... veni, vidi, vici!*
+*<sup>0</sup> – viņš viņa viņi viņas... veni vidi vici !*
