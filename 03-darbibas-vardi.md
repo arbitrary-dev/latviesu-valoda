@@ -6,4 +6,5 @@ Deklinācijas
 
 | | | I | II | III |
 |---|---|---|---|---|
-|**Tagadne**|es<br>tu<br>v.v.<br>mēs<br>jūs|-u<br>-(i)\*\*<br>–<br>-am<br>-at|-(ā\|ē\|o)ju<br>-(ā\|ē\|o)<br>-(ā\|ē\|o)<br>-(ā\|ē\|o)jam<br>-(ā\|ē\|o)jat|-u<br>-i<br>-(a\*\|–)<br>-(ām\*\|am)<br>-(āt\*\|at)|
+| | |-t|-āt -ēt -ot|-īt<sup>1</sup> -āt<sup>3</sup> -ēt<sup>4</sup>|
+|**Tagadne**|es<br>tu<br>v.v.<br>mēs<br>jūs|-u<br>-i<sup>2</sup><br>-<br>-am<br>-at|-ju<br>-<br>-<br>-jam<br>-jat|-u<br>-i<br>-a<sup>1</sup><br>-ām<sup>1</sup> -am<br>-āt<sup>1</sup> -at|
