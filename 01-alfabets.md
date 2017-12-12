@@ -1,5 +1,5 @@
-01 Alfabēts
-===========
+Alfabēts
+========
 
 <kbd>Shift</kbd>+<kbd>klikšķis</kbd> lai klausīt burtu izrunāšanu.
 
