@@ -4,6 +4,6 @@ Darbības vārdi
 Deklinācijas
 ------------
 
-| | I | II | III |
-|-|:-:|:-:|:-:|
-|<span style="display:block;transform:rotate(-90deg)">**Tagadne**</span>|es<br>tu|||
+| | | I | II | III |
+|---|---|:-:|:-:|:-:|
+|**Tagadne**|es<br>tu<br>v.v.<br>mēs<br>jūs|-u<br>-(i)\*\*<br>–<br>-am<br>-at|-(ā\|ē\|o)ju<br>-(ā\|ē\|o)<br>-(ā\|ē\|o)<br>-(ā\|ē\|o)jam<br>-(ā\|ē\|o)jat|-u<br>-i<br>-(a\*\|–)<br>-(ām\*\|am)<br>-(āt\*\|at)|
