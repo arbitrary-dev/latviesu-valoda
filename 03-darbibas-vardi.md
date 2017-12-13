@@ -4,7 +4,7 @@ Darbības vārdi
 Deklinācijas
 ------------
 
-Tiešie
+### Tiešie
 
 |             |                                            | I                                       | II                                     | III                                                                      |
 | ---         | ---                                        | ---                                     | ---                                    | ---                                                                      |
@@ -13,7 +13,7 @@ Tiešie
 | **Pagātne** | es<br>tu<br>v.v.<br>mēs<br>jūs             | -u<br>-i<br>-a<br>-ām<br>-āt            | -ju<br>-ji<br>-ja<br>-jām<br>-jāt      | -ju<br>-ji<br>-ja<br>-jām<br>-jāt                                        |
 | **Nākotne** | es<br>tu<br>v.v.<br>mēs<br>jūs             | -šu<br>-si<br>-s<br>-sim<br>-siet -sit  | -šu<br>-si<br>-s<br>-sim<br>-siet -sit | -šu<br>-si<br>-s<br>-sim<br>-siet -sit                                   |
 
-Atgriezeniskie
+### Atgriezeniskie
 
 |             |                                | I                                                     | II                                                    | III                                                                                          |
 | ---         | ---                            | ---                                                   | ---                                                   | ---                                                                                          |
@@ -24,7 +24,7 @@ Atgriezeniskie
 
 *<sup>0</sup> – viņš viņa viņi viņas... veni vidi vici !*  
 *<sup>1</sup> – tikai ja vārds beigties ar -st => -sti,
-citā 90% gadījumos nav -i*  
+citos 90% gadījumos nav -i*  
 *<sup>2</sup> – kopā izmanto*  
 *<sup>3</sup> – tikai dziedāt un raudāt*  
 *<sup>4</sup> – jūtu darbības vārdi*
@@ -32,34 +32,34 @@ citā 90% gadījumos nav -i*
 Māmiņas sevišķas sniegpārsliņas
 -------------------------------
 
-Būt
+### Būt
 
-| |Tagadne|Pagātne|Nākotne|
-|---|---|---|---|
-|es|esmu|biju|būšu|
-|tu|esi|biji|būsi|
-|v.v.|ir / nav<sup>1</sup>|bija|būs|
-|mēs|esam|bijām|būsim|
-|jūs|esat|bijāt|būsit, būsiet|
+|      | Tagadne              | Pagātne | Nākotne       |
+| ---  | ---                  | ---     | ---           |
+| es   | esmu                 | biju    | būšu          |
+| tu   | esi                  | biji    | būsi          |
+| v.v. | ir / nav<sup>1</sup> | bija    | būs           |
+| mēs  | esam                 | bijām   | būsim         |
+| jūs  | esat                 | bijāt   | būsit, būsiet |
 
 *<sup>1</sup> – visos citos gadījumos negācijai izmantots priedēkli ne-*
 
-Iet
+### Iet
 
-| |Tagadne|Pagātne|Nākotne|
-|---|---|---|---|
-|es|eju|gāju|iešu|
-|tu|ej|gāji|iesi|
-|v.v.|iet|gāja|ies|
-|mēs|ejam|gājām|iesim|
-|jūs|ejat|gājāt|iesit, iesiet|
+|      | Tagadne | Pagātne | Nākotne       |
+| ---  | ---     | ---     | ---           |
+| es   | eju     | gāju    | iešu          |
+| tu   | ej      | gāji    | iesi          |
+| v.v. | iet     | gāja    | ies           |
+| mēs  | ejam    | gājām   | iesim         |
+| jūs  | ejat    | gājāt   | iesit, iesiet |
 
-Dot
+### Dot
 
-| |Tagadne|Pagātne|Nākotne|
-|---|---|---|---|
-|es|dodu|devu|došu|
-|tu|dod|devi|dosi|
-|v.v.|dod|deva|dos|
-|mēs|dodam|devām|dosim|
-|jūs|dodat|devāt|dosit, dosiet|
+|      | Tagadne | Pagātne | Nākotne       |
+| ---  | ---     | ---     | ---           |
+| es   | dodu    | devu    | došu          |
+| tu   | dod     | devi    | dosi          |
+| v.v. | dod     | deva    | dos           |
+| mēs  | dodam   | devām   | dosim         |
+| jūs  | dodat   | devāt   | dosit, dosiet |
