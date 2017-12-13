@@ -22,4 +22,44 @@ Atgriezeniskie
 | **Pagātne** | es<br>tu<br>v.v.<br>mēs<br>jūs | -os<br>-ies<br>-ās<br>-āmies<br>-āties                | -jos<br>-jies<br>-jās<br>-jāmies<br>-jāties           | -jos<br>-jies<br>-jās<br>-jāmies<br>-jāties                                                  |
 | **Nākotne** | es<br>tu<br>v.v.<br>mēs<br>jūs | -šos<br>-sies<br>-sies<br>-simies<br>-sieties -sities | -šos<br>-sies<br>-sies<br>-simies<br>-sieties -sities | -šos<br>-sies<br>-sies<br>-simies<br>-sieties -sities                                        |
 
-*<sup>0</sup> – viņš viņa viņi viņas... veni vidi vici !*
+*<sup>0</sup> – viņš viņa viņi viņas... veni vidi vici !*  
+*<sup>1</sup> – tikai ja vārds beigties ar -st => -sti,
+citā 90% gadījumos nav -i*  
+*<sup>2</sup> – kopā izmanto*  
+*<sup>3</sup> – tikai dziedāt un raudāt*  
+*<sup>4</sup> – jūtu darbības vārdi*
+
+Māmiņas sevišķas sniegpārsliņas
+-------------------------------
+
+Būt
+
+| |Tagadne|Pagātne|Nākotne|
+|---|---|---|---|
+|es|esmu|biju|būšu|
+|tu|esi|biji|būsi|
+|v.v.|ir / nav<sup>1</sup>|bija|būs|
+|mēs|esam|bijām|būsim|
+|jūs|esat|bijāt|būsit, būsiet|
+
+*<sup>1</sup> – visos citos gadījumos negācijai izmantots priedēkli ne-*
+
+Iet
+
+| |Tagadne|Pagātne|Nākotne|
+|---|---|---|---|
+|es|eju|gāju|iešu|
+|tu|ej|gāji|iesi|
+|v.v.|iet|gāja|ies|
+|mēs|ejam|gājām|iesim|
+|jūs|ejat|gājāt|iesit, iesiet|
+
+Dot
+
+| |Tagadne|Pagātne|Nākotne|
+|---|---|---|---|
+|es|dodu|devu|došu|
+|tu|dod|devi|dosi|
+|v.v.|dod|deva|dos|
+|mēs|dodam|devām|dosim|
+|jūs|dodat|devāt|dosit, dosiet|
