@@ -22,3 +22,4 @@ Saturs
 1. [Alfabēts](01-alfabets.md)
 2. [Lietvārdi](02-lietvardi.md)
 3. [Darbības vārdi](03-darbibas-vardi.md)
+4. [Prievārdi](04-prievardi.md)

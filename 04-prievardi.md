@@ -1,0 +1,96 @@
+Prievārdi
+=========
+
+Ar ģenitīvu
+-----------
+
+### uz
+
+uz stūra
+
+### zem
+
+zem gultas
+
+### aiz
+
+aiz pagrieziena
+
+### bez
+
+bez atvaļinājuma
+
+### pie
+
+pie veikala, karāties pie sienas
+
+### pēc
+
+pēc sanāksmes, pēc saldējuma, pēc likuma
+
+### pirms
+
+pirms sēdes, pirms gada
+
+### no
+
+no somas, no drauga
+
+### kopš
+
+kopš bērnības
+
+### virs
+
+virs galvas
+
+### ... dēļ
+
+slimības dēļ
+
+### ārpus
+
+ārpus pilsētas
+
+Ar akuzatīvu
+------------
+
+### ar
+
+ar kolēģi, ar mašīnu, ar pildspalvu
+
+### par
+
+par cilvēku, par vienu eiro
+
+### gar
+
+gar krastmalu
+
+### starp
+
+starp skapi un gultu
+
+### ap
+
+ap galdu
+
+### pa
+
+pa upi
+
+### caur
+
+caur mežu
+
+### pār
+
+pār ielu, pār laukumu, pār peļķi
+
+### pret
+
+pret viedokli
+
+### uz
+
+uz veikalu, uz sanāksmi
