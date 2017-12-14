@@ -28,6 +28,10 @@ pie veikala, karāties pie sienas
 
 pēc sanāksmes, pēc saldējuma, pēc likuma
 
+### ... pēc
+
+prieka pēc (norāda uz cēloni)
+
 ### pirms
 
 pirms sēdes, pirms gada
@@ -47,6 +51,10 @@ virs galvas
 ### ... dēļ
 
 slimības dēļ
+
+### ... labad
+
+labuma labad
 
 ### ārpus
 
