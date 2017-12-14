@@ -106,7 +106,7 @@ uz veikalu, uz sanāksmi
 Ar datīvu
 ---------
 
-- Minētais prievārdi ar vārdiem daudzskaitlī, izņēmot ... dēļ, ... labad un
-... pēc
-- Pusprievārdi: pāri, cauri, apkārt, blakām, blakus, garām, līdzās, līdzi,
-pretī, pretim
+- Minētais prievārdi ar vārdiem daudzskaitlī, izņēmot *... dēļ*, *... labad* un
+*... pēc*
+- Pusprievārdi: *pāri*, *cauri*, *apkārt*, *blakām*, *blakus*, *garām*,
+*līdzās*, *līdzi*, *pretī*, *pretim*
