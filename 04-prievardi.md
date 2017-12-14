@@ -94,3 +94,10 @@ pret viedokli
 ### uz
 
 uz veikalu, uz sanāksmi
+
+Ar datīvu
+---------
+
+- Minētais prievārdi ar vārdiem daudzskaitlī
+- Pusprievārdi: pāri, cauri, apkārt, blakām, blakus, garām, līdzās, līdzi,
+pretī, pretim
