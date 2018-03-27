@@ -1,112 +1,47 @@
 Prievārdi
 =========
 
-Ar ģenitīvu
------------
+| Ģenitīvs                                                                                                  | Akuzatīvs                                                          | Datīvs                                                                                                     |
+| ---                                                                                                       | ---                                                                | ---                                                                                                        |
+| uz<br>zem<br>aiz<br>bez<br>pie<br>pēc<br>pirms<br>no<br>kopš<br>virs                                      | uz<br>ar<br>par<br>gar<br>starp<br>ap<br>pa<br>caur<br>pār<br>pret | <sup>3</sup>                                                                                               |
+| <sup>1</sup><br>... pēc<br>... dēļ<br>... labad                                                           |                                                                    | <sup>4</sup>                                                                                               |
+| <sup>2</sup><br>iz<br>iekš<br>priekš<br>apakš<br>ārpus<br>iekšpus<br>lejpus<br>otrpus<br>šaipus<br>viņpus |                                                                    | <sup>5</sup><br>pāri<br>cauri<br>apkārt<br>blakām<br>blakus<br>garām<br>līdzās<br>līdzi<br>pretī<br>pretim |
 
-### uz
+<sup>1</sup> – novietojami aiz patstāvīga vārda
+<sup>2</sup> – arhaiskas
+<sup>3</sup> – prievārdi ar vārdiem daudzskaitlī
+<sup>4</sup> – izņēmot *... dēļ*, *... labad* un *... pēc*
+<sup>5</sup> – pusprievārdi
+
+Piemēri
+-------
+
+### Ar ģenitīvu
 
 uz stūra
-
-### zem
-
 zem gultas
-
-### aiz
-
 aiz pagrieziena
-
-### bez
-
 bez atvaļinājuma
-
-### pie
-
 pie veikala, karāties pie sienas
-
-### pēc
-
 pēc sanāksmes, pēc saldējuma, pēc likuma
-
-### ... pēc
-
 prieka pēc (norāda uz cēloni)
-
-### pirms
-
 pirms sēdes, pirms gada
-
-### no
-
 no somas, no drauga
-
-### kopš
-
 kopš bērnības
-
-### virs
-
 virs galvas
-
-### ... dēļ
-
 slimības dēļ
-
-### ... labad
-
 labuma labad
-
-### ārpus
-
 ārpus pilsētas
 
-Ar akuzatīvu
-------------
-
-### ar
+### Ar akuzatīvu
 
 ar kolēģi, ar mašīnu, ar pildspalvu
-
-### par
-
 par cilvēku, par vienu eiro
-
-### gar
-
 gar krastmalu
-
-### starp
-
 starp skapi un gultu
-
-### ap
-
 ap galdu
-
-### pa
-
 pa upi
-
-### caur
-
 caur mežu
-
-### pār
-
 pār ielu, pār laukumu, pār peļķi
-
-### pret
-
 pret viedokli
-
-### uz
-
 uz veikalu, uz sanāksmi
-
-Ar datīvu
----------
-
-- Minētais prievārdi ar vārdiem daudzskaitlī, izņēmot *... dēļ*, *... labad* un
-*... pēc*
-- Pusprievārdi: *pāri*, *cauri*, *apkārt*, *blakām*, *blakus*, *garām*,
-*līdzās*, *līdzi*, *pretī*, *pretim*
