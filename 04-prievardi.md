@@ -10,7 +10,7 @@ Prievārdi
 <sup>1</sup> *novietojami aiz patstāvīga vārda*  
 <sup>2</sup> *arhaiskas*  
 <sup>3</sup> *prievārdi ar vārdiem daudzskaitlī*  
-<sup>4</sup> *izņēmot "… pēc", … dēļ un … labad*  
+<sup>4</sup> *izņēmot "… pēc", "… dēļ" un "… labad"*  
 <sup>5</sup> *pusprievārdi*
 
 Piemēri
