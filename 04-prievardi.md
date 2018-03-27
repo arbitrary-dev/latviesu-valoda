@@ -1,16 +1,16 @@
 Prievārdi
 =========
 
-| Ģenitīvs                                                                                                  | Akuzatīvs                                                          | Datīvs                                                                                                     |
-| ---                                                                                                       | ---                                                                | ---                                                                                                        |
-| uz<br>zem<br>aiz<br>bez<br>pie<br>pēc<br>pirms<br>no<br>kopš<br>virs                                      | uz<br>ar<br>par<br>gar<br>starp<br>ap<br>pa<br>caur<br>pār<br>pret | <sup>3</sup>                                                                                               |
-| <sup>1</sup><br>... pēc<br>... dēļ<br>... labad                                                           |                                                                    | <sup>4</sup>                                                                                               |
-| <sup>2</sup><br>iz<br>iekš<br>priekš<br>apakš<br>ārpus<br>iekšpus<br>lejpus<br>otrpus<br>šaipus<br>viņpus |                                                                    | <sup>5</sup><br>pāri<br>cauri<br>apkārt<br>blakām<br>blakus<br>garām<br>līdzās<br>līdzi<br>pretī<br>pretim |
+| Ģenitīvs                                                                                               | Akuzatīvs                                                          | Datīvs                                                                                                  |
+| ---                                                                                                    | ---                                                                | ---                                                                                                     |
+| uz<br>zem<br>aiz<br>bez<br>pie<br>pēc<br>pirms<br>no<br>kopš<br>virs                                   | uz<br>ar<br>par<br>gar<br>starp<br>ap<br>pa<br>caur<br>pār<br>pret | <sup>3</sup>                                                                                            |
+| ... pēc <sup>1</sup><br>... dēļ<br>... labad                                                           |                                                                    | <sup>4</sup>                                                                                            |
+| iz <sup>2</sup><br>iekš<br>priekš<br>apakš<br>ārpus<br>iekšpus<br>lejpus<br>otrpus<br>šaipus<br>viņpus |                                                                    | pāri <sup>5</sup><br>cauri<br>apkārt<br>blakām<br>blakus<br>garām<br>līdzās<br>līdzi<br>pretī<br>pretim |
 
 <sup>1</sup> – novietojami aiz patstāvīga vārda  
 <sup>2</sup> – arhaiskas  
 <sup>3</sup> – prievārdi ar vārdiem daudzskaitlī  
-<sup>4</sup> – izņēmot *... dēļ*, *... labad* un *... pēc*  
+<sup>4</sup> – izņēmot *... pēc*, *... dēļ* un *... labad*  
 <sup>5</sup> – pusprievārdi
 
 Piemēri
