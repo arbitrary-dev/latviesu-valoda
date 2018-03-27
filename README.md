@@ -10,9 +10,11 @@ Kā mācīties
 -----------
 
 1. Izmanto [tulkotāju](https://translate.google.lv/#lv/en/Gudrinieks!)
-2. Lejupielādē [Anki](https://apps.ankiweb.net) un latviešu valodu
+2. Lejupielādē [GoldenDict](http://goldendict.org) un [latviešu vārdnīcu](
+http://www.babylon-software.com/free-dictionaries/languages/latvian)
+3. Lejupielādē [Anki](https://apps.ankiweb.net) un latviešu valodu
 [kāršu komplektu](https://ankiweb.net/shared/info/387126451)
-3. Reģistrē Rīgas domes
+4. Reģistrē Rīgas domes
 [valodu kursos](http://www.kultura.riga.lv/public/65612.html),
 viņas ir bezmaksas
 
