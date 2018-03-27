@@ -17,4 +17,4 @@ Vietniekvārdi
 |**A**|pašu|pašu|pašus|pašas|
 |**L**|pašā|pašā|pašos|pašās|
 
-*<sup>1</sup> – vienskaitlis / daudzskaitlis, vīriešu / sieviešu dzimte*
+<sup>1</sup> *vienskaitlis / daudzskaitlis, vīriešu / sieviešu dzimte*
