@@ -17,6 +17,8 @@ http://www.babylon-software.com/free-dictionaries/languages/latvian)
 4. Reģistrē Rīgas domes
 [valodu kursos](http://www.kultura.riga.lv/public/65612.html),
 viņas ir bezmaksas
+5. Lasi grāmatas, nav nepieciešams tulkot katru vārdu, tikai lasi skaļi un
+mēģinā izprast teksta vispārējo nozīmi
 
 Saturs
 -------
