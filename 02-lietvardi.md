@@ -1,8 +1,7 @@
 Lietvārdi
 =========
 
-Locījumi
---------
+## Locījumi
 
 - **Nominatīvs** – *kas?*
 - **Ģenitīvs** – *kā?*
@@ -12,8 +11,7 @@ Locījumi
 - **Lokatīvs** – *kur?*
 - **Vokatīvs** – bez jautājuma
 
-Deklinācijas
-------------
+## Deklinācijas
 
 Vienskaitlis
 
@@ -43,3 +41,10 @@ Daudzskaitlis
 
 **I**, **II** un **III** ir vīriešu dzimtes lietvārdi  
 **IV**, **V** un **VI** ir pārsvari sieviešu dzimtes lietvārdi
+
+## I deklinācija
+
+Bez galotnes vienskaitļa vokatīvā:
+1. *tēvs*, *cilvēks* → *tēv! cilvēk!*
+2. *-ājs*, *-tājs*, *-ējs*, *-nieks*, *-īņš*
+3. Vārdi, uzvārdi
