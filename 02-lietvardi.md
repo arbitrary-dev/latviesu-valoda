@@ -48,3 +48,25 @@ Bez galotnes vienskaitļa vokatīvā:
 1. *tēvs*, *cilvēks* → *tēv! cilvēk!*
 2. *-ājs*, *-tājs*, *-ējs*, *-nieks*, *-īņš*
 3. Vārdi, uzvārdi
+
+## II deklinācija
+
+Izņemumi:
+- akmens
+- asmens
+- rudens
+- ūdens
+- zibens
+- mēness
+- suns
+- sāls
+
+|       | v.s.   |
+| :-:   | :-:    |
+| **N** | **-s** |
+| **Ģ** | **-s** |
+| **D** | -im    |
+| **A** | -i     |
+| **I** | ar -i  |
+| **L** | -ī     |
+| **V** | -i     |
