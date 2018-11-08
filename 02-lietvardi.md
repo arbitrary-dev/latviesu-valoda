@@ -51,22 +51,15 @@ Bez galotnes vienskaitļa vokatīvā:
 
 ## II deklinācija
 
-Izņemumi:
-- akmens
-- asmens
-- rudens
-- ūdens
-- zibens
-- mēness
-- suns
-- sāls
+Izņemumi:  
+akmens, asmens, rudens, ūdens, zibens, mēness, suns, sāls
 
-|       | v.s.   |
-| :-:   | :-:    |
-| **N** | **-s** |
-| **Ģ** | **-s** |
-| **D** | -im    |
-| **A** | -i     |
-| **I** | ar -i  |
-| **L** | -ī     |
-| **V** | -i     |
+|       | v.s.     |
+| :-:   | :-:      |
+| **N** | ***-s*** |
+| **Ģ** | ***-s*** |
+| **D** | *-im*    |
+| **A** | *-i*     |
+| **I** | *ar -i*  |
+| **L** | *-ī*     |
+| **V** | *-i*     |
