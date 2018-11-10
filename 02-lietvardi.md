@@ -51,8 +51,25 @@ Bez galotnes vienskaitļa vokatīvā:
 
 ## II deklinācija
 
-Izņemumi:
-*akmens*, *asmens*, *rudens*, *ūdens*, *zibens*, *mēness*, *suns*, *sāls*
+### Līdzskaņu mija piemeri
+
+*gailis* → *gaiļa*, *gaiļu*
+*stallis* → *staļļa*, *staļļu*
+*bullis* → *buļļa*, *buļļu*
+*šķērslis* → *šķēršļa*, *šķēršļu*
+*vilnis* → *viļņa*, *viļņu*
+*troksnis* → *trokšņa*, *trokšņu*
+*alksnis* → *alkšņa*, *alkšņu*
+
+### Izņēmumi bez mijas
+
+1. *viesis* → *viese*, *viesu*
+2. Vārdi uz *-tis*, *-dis*
+3. Uzvārdi uz *-skis*, *-ckis*
+
+### Otri izņēmumi
+
+*akmens*, *asmens*, *rudens*, *ūdens*, *zibens*, *mēness*, *suns*, *sāls*:
 
 |       | v.s.     |
 | :-:   | :-:      |
@@ -63,3 +80,5 @@ Izņemumi:
 | **I** | *ar -i*  |
 | **L** | *-ī*     |
 | **V** | *-i*     |
+
+*brālītis* → *brālīt!*
