@@ -53,12 +53,12 @@ Bez galotnes vienskaitļa vokatīvā:
 
 ### Līdzskaņu mija piemeri
 
-*gailis* → *gaiļa*, *gaiļu*
-*stallis* → *staļļa*, *staļļu*
-*bullis* → *buļļa*, *buļļu*
-*šķērslis* → *šķēršļa*, *šķēršļu*
-*vilnis* → *viļņa*, *viļņu*
-*troksnis* → *trokšņa*, *trokšņu*
+*gailis* → *gaiļa*, *gaiļu*  
+*stallis* → *staļļa*, *staļļu*  
+*bullis* → *buļļa*, *buļļu*  
+*šķērslis* → *šķēršļa*, *šķēršļu*  
+*vilnis* → *viļņa*, *viļņu*  
+*troksnis* → *trokšņa*, *trokšņu*  
 *alksnis* → *alkšņa*, *alkšņu*
 
 ### Izņēmumi bez mijas
