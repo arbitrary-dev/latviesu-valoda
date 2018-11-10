@@ -63,7 +63,7 @@ Bez galotnes vienskaitļa vokatīvā:
 
 ### Izņēmumi bez mijas
 
-1. *viesis* → *viese*, *viesu*
+1. *viesis* → *viesa*, *viesu*
 2. Vārdi uz *-tis*, *-dis*
 3. Uzvārdi uz *-skis*, *-ckis*
 
