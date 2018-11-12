@@ -1,7 +1,7 @@
 Alfabēts
 ========
 
-<kbd>Shift</kbd>+<kbd>klikšķis</kbd> lai klausīt burtu izrunāšanu
+<kbd>Shift</kbd>+<kbd>klikšķis</kbd> lai klausīties burtu izrunāšanu
 
 [Aa Āā](https://youtu.be/riqfSaT8hJ0?t=4)  
 [Bb](https://youtu.be/riqfSaT8hJ0?t=11)  
