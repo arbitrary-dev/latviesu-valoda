@@ -105,10 +105,6 @@ Bez galotnes vienskaitļa vokatīvā:
 ## Daudzskaitlinieki
 
 *Ainaži*  
-*Cēsis*  
-*Jāņi*  
-*Lieldienas*  
-*Talsi*  
 *alimenti*  
 *apavi*  
 *austrumi*  
@@ -120,6 +116,7 @@ Bez galotnes vienskaitļa vokatīvā:
 *bēres*  
 *cepumi*  
 *ceriņi*  
+*Cēsis*  
 *dienvidi*  
 *drēbes*  
 *dubļi*  
@@ -129,6 +126,7 @@ Bez galotnes vienskaitļa vokatīvā:
 *gaviles*  
 *iesnas*  
 *ilgas*  
+*Jāņi*  
 *kvieši*  
 *kāposti*  
 *kāzas*  
@@ -136,6 +134,7 @@ Bez galotnes vienskaitļa vokatīvā:
 *lauki*  
 *lini*  
 *ļaudis*  
+*Lieldienas*  
 *masalas*  
 *medības*  
 *meli*  
@@ -155,6 +154,7 @@ Bez galotnes vienskaitļa vokatīvā:
 *svētki*  
 *šķēres*  
 *tauki*  
+*Talsi*  
 *vārtiņi*  
 *zaļumi*  
 *ziemeļi*  
