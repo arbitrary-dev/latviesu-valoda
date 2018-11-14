@@ -83,6 +83,26 @@ Bez galotnes vienskaitļa vokatīvā:
 
 *brālītis* → *brālīt!*
 
+## V deklinācija
+
+### Pievērsiet uzmanību šiem miju piemēriem
+
+*lelle* → *leļļu*  
+*zvaigzne* → *zvaigžņu*  
+*sacikstes* →	*sacikšu*
+
+### Izņēmumi bez mijas
+
+*aste*  
+*flote*  
+*fronte*  
+*gāze*  
+*kase*  
+*kaste*  
+*mute*  
+*pase*  
+*piekraste*
+
 ## VI deklinācija
 
 ### Daudzskaitlinieki
