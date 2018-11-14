@@ -83,7 +83,34 @@ Bez galotnes vienskaitļa vokatīvā:
 
 *brālītis* → *brālīt!*
 
-## Vienskaitlinieki
+## VI deklinācija
+
+### Daudzskaitlinieki
+
+*asinis*, *brokastis*, *Cēsis* *debesis*, *durvis*, *ļaudis*, *smiltis*
+
+### Izņēmumi bez mijas
+
+*acs*, *auss*, *balss*, *debesis*, *dzelzs*, *valsts*, *vēsts*, *zoss*
+
+### Otri piemēri
+
+*cilts*  
+*govs*  
+*izkapts*  
+*klēts*  
+*klints*  
+*krāsns*  
+*krūts*  
+*kūts*  
+*pils*  
+*pirts*  
+*plīts*  
+*sirds*  
+*uguns*  
+*zivs*  
+
+## Vienskaitlinieku piemēri
 
 *cituriene*  
 *cukurs*  
@@ -102,7 +129,7 @@ Bez galotnes vienskaitļa vokatīvā:
 *tērauds*  
 *zelts*
 
-## Daudzskaitlinieki
+## Daudzskaitlinieku piemēri
 
 *Ainaži*  
 *alimenti*  
@@ -116,11 +143,9 @@ Bez galotnes vienskaitļa vokatīvā:
 *bēres*  
 *cepumi*  
 *ceriņi*  
-*Cēsis*  
 *dienvidi*  
 *drēbes*  
 *dubļi*  
-*durvis*  
 *dusmas*  
 *dūmi*  
 *gaviles*  
@@ -133,7 +158,6 @@ Bez galotnes vienskaitļa vokatīvā:
 *laksti*  
 *lauki*  
 *lini*  
-*ļaudis*  
 *Lieldienas*  
 *masalas*  
 *medības*  
