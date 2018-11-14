@@ -87,7 +87,7 @@ Bez galotnes vienskaitļa vokatīvā:
 
 ### Daudzskaitlinieki
 
-*asinis*, *brokastis*, *Cēsis* *debesis*, *durvis*, *ļaudis*, *smiltis*
+*asinis*, *brokastis*, *Cēsis*, *debesis*, *durvis*, *ļaudis*, *smiltis*
 
 ### Izņēmumi bez mijas
 
