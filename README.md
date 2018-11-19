@@ -34,3 +34,4 @@ Paldies
 -------
 
 1. http://valoda.ailab.lv
+2. [Mācāmies latviešu valodu](http://mlv.id.lv/lv/grammar/text/index.html)
