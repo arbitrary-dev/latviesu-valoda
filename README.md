@@ -33,5 +33,5 @@ Saturs
 Paldies
 -------
 
-1. [Latvijas universitātes Matemātikas un informātikas institūta mākslīgā intelekta laboratorija](http://valoda.ailab.lv)
+1. [Latvijas universitātes matemātikas un informātikas institūta mākslīgā intelekta laboratorija](http://valoda.ailab.lv)
 2. [Mācāmies latviešu valodu](http://mlv.id.lv/lv/grammar/text/index.html)
