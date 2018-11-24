@@ -1,8 +1,12 @@
 Vārda uzsvars
 =============
 
-Parasti ir pirmajā zilbē.
-Prievārdi un vairums partikulās ir nekad netiek uzsvēri.
+1. Parasti ir pirmajā zilbē.
+2. Prievārdi un vairums partikulās ir nekad netiek uzsvēri.
+3. Pavisam reti tiek uzsvērta trešā vai pat ceturta zilbe:
+   - *pama**zī**tiņām*
+   - *palē**nī**tiņām*
+   - *mazpama**zī**tiņām*
 
 ## Otra zilbes izņēmumi
 
@@ -56,4 +60,13 @@ Prievārdi un vairums partikulās ir nekad netiek uzsvēri.
    - *Dosto**jev**skis*
    - *Tur**ge**ņevs*
    - *Marcin**kē**vičs*
-3. TODO
+3. Lokāmajos svešvārdos (gan sugasvārdos, gan īpašvārdos), runājot latviski,
+   vienmēr var uzsvērt pirmo zilbi. Īpaši tas vēlams, ja gadās, ka svešā vārda
+   īsto uzsvara vietu droši nezinām.
+4. Tāpat kā latviešu valodā, arī daudzās citās valodās uzsvars ir pirmajā zilbē,
+   tāpēc igauņu, somu, ungāru, gruzīnu, čehu un vēl daudzu citu valodu īpašvārdi
+   latviski ir ar pirmās zilbes uzsvaru:
+   - ***Tar**tu*
+   - ***Koi**dula*
+   - ***Ke**konens*
+   - ***So**pota*
