@@ -15,7 +15,7 @@ http://www.babylon-software.com/free-dictionaries/languages/latvian)
 3. Lejupielādē [Anki](https://apps.ankiweb.net) un latviešu valodu
 [kāršu komplektu](https://ankiweb.net/shared/info/387126451)
 4. Reģistrē Rīgas domes
-[valodu kursos](http://www.kultura.riga.lv/public/65612.html),
+[valodu kursos](http://www.integration.lv/ru/bjesplatnije-kursi-latishskogo-jazika-dlja-rizhan-v-2018-godu),
 viņas ir bezmaksas
 5. Lasi grāmatas, nav nepieciešams tulkot katru vārdu, tikai lasi skaļi un
 mēģinā izprast teksta vispārējo nozīmi
