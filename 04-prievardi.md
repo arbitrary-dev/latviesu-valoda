@@ -1,11 +1,11 @@
 Prievārdi
 =========
 
-| Ģenitīvs                                                                                               | Akuzatīvs                                                          | Datīvs                                                                                                  |
-| ---                                                                                                    | ---                                                                | ---                                                                                                     |
-| uz<br>zem<br>aiz<br>bez<br>pie<br>pēc<br>pirms<br>no<br>kopš<br>virs                                   | uz<br>ar<br>par<br>gar<br>starp<br>ap<br>pa<br>caur<br>pār<br>pret | līdz<br>pa                                                                                              |
-| … pēc <sup>1</sup><br>… dēļ<br>… labad                                                                 |                                                                    | <sup>3</sup>                                                                                            |
-| iz <sup>2</sup><br>iekš<br>priekš<br>apakš<br>ārpus<br>iekšpus<br>lejpus<br>otrpus<br>šaipus<br>viņpus |                                                                    | pāri <sup>4</sup><br>cauri<br>apkārt<br>blakām<br>blakus<br>garām<br>līdzās<br>līdzi<br>pretī<br>pretim |
+| Ģenitīvs                                                                                                          | Akuzatīvs                                                          | Datīvs                                                                                                              |
+| ---                                                                                                               | ---                                                                | ---                                                                                                                 |
+| aiz<br>bez<br>kopš<br>no<br>pie<br>pirms<br>pēc<br>uz<br>virs<br>zem                                              | ap<br>ar<br>caur<br>gar<br>pa<br>par<br>pār<br>pret<br>starp<br>uz | līdz<br>pa                                                                                                          |
+| … dēļ <sup>1</sup><br>… labad<br>… pēc                                                                            |                                                                    | <sup>3</sup>                                                                                                        |
+| apakš <sup>2</sup><br>ārpus<br>iekš<br>iekšpus<br>iz<br>lejpus<br>otrpus<br>priekš<br>virspus<br>viņpus<br>šaipus |                                                                    | apkārt <sup>4</sup><br>blakus<br>blakām<br>cauri<br>garām<br>iepretim<br>līdzi<br>līdzās<br>pretim<br>pretī<br>pāri |
 
 <sup>1</sup> *novietojami aiz patstāvīga vārda*  
 <sup>2</sup> *arhaiskas*  
@@ -18,32 +18,32 @@ Piemēri
 
 ### Ar ģenitīvu
 
-uz stūra  
-zem gultas  
 aiz pagrieziena  
+ārpus pilsētas  
 bez atvaļinājuma  
+slimības dēļ  
+kopš bērnības  
+labuma labad  
+no somas, no drauga  
 pie veikala, karāties pie sienas  
+pirms sēdes, pirms gada  
 pēc sanāksmes, pēc saldējuma, pēc likuma  
 prieka pēc (norāda uz cēloni)  
-pirms sēdes, pirms gada  
-no somas, no drauga  
-kopš bērnības  
+uz stūra  
 virs galvas  
-slimības dēļ  
-labuma labad  
-ārpus pilsētas
+zem gultas
 
 ### Ar akuzatīvu
 
-ar kolēģi, ar mašīnu, ar pildspalvu  
-par cilvēku, par vienu eiro  
-gar krastmalu  
-starp skapi un gultu  
 ap galdu  
-pa upi  
+ar kolēģi, ar mašīnu, ar pildspalvu  
 caur mežu  
+gar krastmalu  
+pa upi  
+par cilvēku, par vienu eiro  
 pār ielu, pār laukumu, pār peļķi  
 pret viedokli  
+starp skapi un gultu  
 uz veikalu, uz sanāksmi
 
 ### Ar datīvu
