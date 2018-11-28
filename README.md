@@ -28,7 +28,8 @@ Saturs
 3. [Darbības vārdi](03-darbibas-vardi.md)
 4. [Prievārdi](04-prievardi.md)
 5. [Vietniekvārdi](05-vietniekvardi.md)
-5. [Vārda uzsvars](06-varda-uzsvars.md)
+6. [Vārda uzsvars](06-varda-uzsvars.md)
+7. [Saikļi](07-saikli.md)
 
 Paldies
 -------
