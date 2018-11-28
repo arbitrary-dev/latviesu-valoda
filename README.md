@@ -33,6 +33,7 @@ Saturs
 Paldies
 -------
 
-1. [Latvijas universitātes matemātikas un informātikas institūta mākslīgā intelekta laboratorija](http://valoda.ailab.lv)
+1. [Latvijas universitātes matemātikas un informātikas institūta mākslīgā intelekta laboratorija](
+   http://valoda.ailab.lv/latval/vispareji/lgraml-w/lgraml.htm)
 2. [Mācāmies latviešu valodu](http://mlv.id.lv/lv/grammar/text/index.html)
-3. [Letonika.lv](https://www.letonika.lv/groups/default.aspx?g=5)
+3. [Letonika.lv](https://www.letonika.lv/groups/default.aspx?title=morphology.htm)
