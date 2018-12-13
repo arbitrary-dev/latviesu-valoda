@@ -30,6 +30,7 @@ Saturs
 5. [Prievārdi](05-prievardi.md)
 6. [Saikļi](06-saikli.md)
 7. [Vietniekvārdi](07-vietniekvardi.md)
+8. [Īpašības vārdi](08-ipasibas-vardi.md)
 
 Paldies
 -------
