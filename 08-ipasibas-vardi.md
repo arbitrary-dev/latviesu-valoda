@@ -1,5 +1,3 @@
-Īpašības vārdi
-==============
 
 Īpašības vārdiem ir divējādas galotnes: notiektā un nenoteiktā galotne.
 Viņu locīšanas likumus nosaka tā dzimte un galotnes tips.
@@ -27,6 +25,15 @@ deklinācijas lietvārdus.
 ## Noteiktā galotne
 
 Īpašības vārdus ar noteikto galotni loka īpatnēji.
+
+|       | v.v.    | v.s.    | dz.v.       | dz.s.      |
+| :-:   | :-:     | :-:     | :-:         | :-:        |
+| **N** | *-ais*  | *-ā*    | *-ie*       | *-ās*      |
+| **Ģ** | *-ā*    | *-ās*   | *-o*        | *-o*       |
+| **D** | *-ajam* | *-ajai* | *-ajiem*    | *-ajām*    |
+| **A** | *-o*    | *-o*    | *-os*       | *-ās*      |
+| **I** | *ar -o* | *ar -o* | *ar -ajiem* | *ar -ajām* |
+| **L** | *-ajā*  | *-ajā*  | *-ajos*     | *-ajās*    |
 
 ## Pārākā pakāpe
 
