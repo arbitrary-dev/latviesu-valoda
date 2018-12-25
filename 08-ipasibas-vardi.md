@@ -39,9 +39,9 @@ Vārdiem ar izskaņu *-ējs* ir atšķirt galotnes, piemēram "vidējs":
 
 |       | v.v.         | v.s.         | dz.v.          | dz.s.         |
 | :-:   | :-:          | :-:          | :-:            | :-:           |
-| **D** | vidēj*-am*   | vidēj*-ai*   | vidēj*-iem*    | vidēj*-ām*    |
-| **I** | ar vidēj*-o* | ar vidēj*-o* | ar vidēj*-iem* | ar vidēj*-ām* |
-| **L** | vidēj*-ā*    | vidēj*-ā*    | vidēj*-os*     | vidēj*-ās*    |
+| **D** | vidēj-*am*   | vidēj-*ai*   | vidēj-*iem*    | vidēj-*ām*    |
+| **I** | ar vidēj-*o* | ar vidēj-*o* | ar vidēj-*iem* | ar vidēj-*ām* |
+| **L** | vidēj-*ā*    | vidēj-*ā*    | vidēj-*os*     | vidēj-*ās*    |
 
 ## Pārākā pakāpe
 
