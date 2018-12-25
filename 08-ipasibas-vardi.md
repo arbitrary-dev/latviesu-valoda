@@ -37,11 +37,11 @@ deklinācijas lietvārdus.
 
 Vārdiem ar izskaņu *-ējs* ir atšķirt galotnes, piemēram "vidējs":
 
-|       | v.v.         | v.s.         | dz.v.          | dz.s.         |
-| :-:   | :-:          | :-:          | :-:            | :-:           |
-| **D** | vidēj-*am*   | vidēj-*ai*   | vidēj-*iem*    | vidēj-*ām*    |
-| **I** | ar vidēj-*o* | ar vidēj-*o* | ar vidēj-*iem* | ar vidēj-*ām* |
-| **L** | vidēj-*ā*    | vidēj-*ā*    | vidēj-*os*     | vidēj-*ās*    |
+|       | v.v.            | v.s.            | dz.v.             | dz.s.            |
+| :-:   | :-:             | :-:             | :-:               | :-:              |
+| **D** | *vidēj**am***   | *vidēj**ai***   | *vidēj**iem***    | *vidēj**ām***    |
+| **I** | *ar vidēj**o*** | *ar vidēj**o*** | *ar vidēj**iem*** | *ar vidēj**ām*** |
+| **L** | *vidēj**ā***    | *vidēj**ā***    | *vidēj**os***     | *vidēj**ās***    |
 
 ## Pārākā pakāpe
 
@@ -50,12 +50,18 @@ izmantoja, lai parādītu, ka īpašība priekšmetam vai parādībai piemīt li
 vai mazākā mērā nekā kādam citam līdzīgam priekšmetam vai parādībai.
 Pārāko pakāpi lieto ar noteikto un nenoteikto galotni.
 
-- Laila ir jaun-*āk*-a nekā Vineta.
-- Laila ir jaun-*āk*-a par Vinetu.
-- Kārlis nav gar-*āk*-s kā Lauris.
-- Kārlis nav gar-*āk*-s par Lauri.
+- *Laila ir jaun**āk**a nekā Vineta*
+- *Laila ir jaun**āk**a par Vinetu*
+- *Kārlis nav gar**āk**s kā Lauris*
+- *Kārlis nav gar**āk**s par Lauri*
 
 ## Vispārākā pakāpe
 
-Vispārāko pakāpi veido no pārākās pakāpes liekot tai priekšā *vis-*.
+Vispārāko pakāpi veido no pārākās pakāpes liekot tai priekšā *vis-* un
+izmantoja, lai parādītu, ka īpašība kādam priekšmetam vai parādībai piemīt
+vislielākajā pakāpē salīdzinājumā ar citiem līdzīgiem priekšmetiem vai parādībām.
 Īpašības vārdus vispārākā pakāpē lieto tikai ar noteikto galotni.
+
+- *Visskaistākā puķe* / *Pati skaistākā puķe*
+- *Visgudrākais bērns* / *Pats gudrākais bērns*
+- *Visklusākais čuksts* / *Pats klusākais čuksts*
