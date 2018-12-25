@@ -35,7 +35,7 @@ deklinācijas lietvārdus.
 | **I** | *ar -o* | *ar -o* | *ar -ajiem* | *ar -ajām* |
 | **L** | *-ajā*  | *-ajā*  | *-ajos*     | *-ajās*    |
 
-Vārdiem ar izskaņu *-ējs* ir atšķirt galotnes, piemēram "vidējs":
+Vārdiem ar izskaņu *-ējs* ir atšķirt galotnes, piemēram *vidējs*:
 
 |       | v.v.            | v.s.            | dz.v.             | dz.s.            |
 | :-:   | :-:             | :-:             | :-:               | :-:              |
