@@ -62,6 +62,6 @@ izmantoja, lai parādītu, ka īpašība kādam priekšmetam vai parādībai pie
 vislielākajā pakāpē salīdzinājumā ar citiem līdzīgiem priekšmetiem vai parādībām.
 Īpašības vārdus vispārākā pakāpē lieto tikai ar noteikto galotni.
 
-- *Visskaistākā puķe* / *Pati skaistākā puķe*
-- *Visgudrākais bērns* / *Pats gudrākais bērns*
-- *Visklusākais čuksts* / *Pats klusākais čuksts*
+- ***Vis**skaistākā puķe* / ***Pati** skaistākā puķe*
+- ***Vis**gudrākais bērns* / ***Pats** gudrākais bērns*
+- ***Vis**klusākais čuksts* / ***Pats** klusākais čuksts*
