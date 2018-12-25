@@ -45,8 +45,15 @@ Vārdiem ar izskaņu *-ējs* ir atšķirt galotnes, piemēram "vidējs":
 
 ## Pārākā pakāpe
 
-Īpašības vārda pārāko pakāpi veido no pamata pakāpes ar piedēkli *-āk-*.
+Īpašības vārda pārāko pakāpi veido no pamata pakāpes ar piedēkli *-āk-* un
+izmantoja, lai parādītu, ka īpašība priekšmetam vai parādībai piemīt lielākā
+vai mazākā mērā nekā kādam citam līdzīgam priekšmetam vai parādībai.
 Pārāko pakāpi lieto ar noteikto un nenoteikto galotni.
+
+- Laila ir jaun-*āk*-a nekā Vineta.
+- Laila ir jaun-*āk*-a par Vinetu.
+- Kārlis nav gar-*āk*-s kā Lauris.
+- Kārlis nav gar-*āk*-s par Lauri.
 
 ## Vispārākā pakāpe
 
