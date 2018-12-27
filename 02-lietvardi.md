@@ -37,7 +37,7 @@ Daudzskaitlis
 | **L** | *-os*        | *-ās*    | *-ēs*    | *-īs*    |
 | **V** | *-i*         | *-as*    | *-es*    | *-is*    |
 
-\* *līdzskaņu pret galotni mija*
+\* līdzskaņu pret galotni mija
 
 **I**, **II** un **III** ir vīriešu dzimtes lietvārdi  
 **IV**, **V** un **VI** ir pārsvari sieviešu dzimtes lietvārdi
@@ -93,15 +93,7 @@ Bez galotnes vienskaitļa vokatīvā:
 
 ### Izņēmumi bez mijas
 
-*aste*  
-*flote*  
-*fronte*  
-*gāze*  
-*kase*  
-*kaste*  
-*mute*  
-*pase*  
-*piekraste*
+*aste*, *flote*, *fronte*, *gāze*, *kase*, *kaste*, *mute*, *pase*, *piekraste*
 
 ## VI deklinācija
 
@@ -115,92 +107,36 @@ Bez galotnes vienskaitļa vokatīvā:
 
 ### Otri piemēri
 
-*cilts*  
-*govs*  
-*izkapts*  
-*klēts*  
-*klints*  
-*krāsns*  
-*krūts*  
-*kūts*  
-*pils*  
-*pirts*  
-*plīts*  
-*sirds*  
-*uguns*  
-*zivs*  
+|           |         |
+| ---       | ---     |
+| *cilts*   | *kūts*  |
+| *govs*    | *pils*  |
+| *izkapts* | *pirts* |
+| *klēts*   | *plīts* |
+| *klints*  | *sirds* |
+| *krāsns*  | *uguns* |
+| *krūts*   | *zivs*  |
 
 ## Vienskaitlinieku piemēri
 
-*cituriene*  
-*cukurs*  
-*egoisms*  
-*gaidīšana*  
-*gaiss*  
-*jaunatne*  
-*lielība*  
-*lietus*  
-*malka*  
-*piens*  
-*skaistums*  
-*slinkums*  
-*sutoņa*  
-*sviests*  
-*tērauds*  
-*zelts*
+|             |             |           |
+| ---         | ---         | ---       |
+| *cituriene* | *lielība*   | *sutoņa*  |
+| *cukurs*    | *lietus*    | *sviests* |
+| *egoisms*   | *malka*     | *tērauds* |
+| *gaidīšana* | *piens*     | *zelts*   |
+| *gaiss*     | *skaistums* |           |
+| *jaunatne*  | *slinkums*  |           |
 
 ## Daudzskaitlinieku piemēri
 
-*Ainaži*  
-*alimenti*  
-*apavi*  
-*austrumi*  
-*auzas*  
-*bailes*  
-*beigas*  
-*bikses*  
-*bēdas*  
-*bēres*  
-*cepumi*  
-*ceriņi*  
-*dienvidi*  
-*drēbes*  
-*dubļi*  
-*dusmas*  
-*dūmi*  
-*gaviles*  
-*iesnas*  
-*ilgas*  
-*Jāņi*  
-*kvieši*  
-*kāposti*  
-*kāzas*  
-*laksti*  
-*lauki*  
-*lini*  
-*Lieldienas*  
-*masalas*  
-*medības*  
-*meli*  
-*mieži*  
-*milti*  
-*putekļi*  
-*raudas*  
-*rietumi*  
-*rudzi*  
-*rīsi*  
-*salmi*  
-*salāti*  
-*skābenes*  
-*slāpes*  
-*smiekli*  
-*sviedri*  
-*svētki*  
-*šķēres*  
-*tauki*  
-*Talsi*  
-*vārtiņi*  
-*zaļumi*  
-*ziemeļi*  
-*ziepes*  
-*žagari*
+|            |            |           |              |           |            |           |
+| ---        | ---        | ---       | ---          | ---       | ---        | ---       |
+| *Ainaži*   | *bēdas*    | *dūmi*    | *laksti*     | *milti*   | *skābenes* | *vārtiņi* |
+| *alimenti* | *bēres*    | *gaviles* | *lauki*      | *putekļi* | *slāpes*   | *zaļumi*  |
+| *apavi*    | *cepumi*   | *iesnas*  | *lini*       | *raudas*  | *smiekli*  | *ziemeļi* |
+| *austrumi* | *ceriņi*   | *ilgas*   | *Lieldienas* | *rietumi* | *sviedri*  | *ziepes*  |
+| *auzas*    | *dienvidi* | *Jāņi*    | *masalas*    | *rudzi*   | *svētki*   | *žagari*  |
+| *bailes*   | *drēbes*   | *kvieši*  | *medības*    | *rīsi*    | *šķēres*   |           |
+| *beigas*   | *dubļi*    | *kāposti* | *meli*       | *salmi*   | *tauki*    |           |
+| *bikses*   | *dusmas*   | *kāzas*   | *mieži*      | *salāti*  | *Talsi*    |           |
