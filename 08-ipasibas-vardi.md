@@ -1,3 +1,9 @@
+# Īpašības vārdi
+
+- [Nenoteiktā galotne](#nenoteiktā-galotne)
+- [Noteiktā galotne](#noteiktā-galotne)
+- [Pārākā pakāpe](#pārākā-pakāpe)
+- [Vispārākā pakāpe](#vispārākā-pakāpe)
 
 Īpašības vārdiem ir divējādas galotnes: notiektā un nenoteiktā galotne.
 Viņu locīšanas likumus nosaka tā dzimte un galotnes tips.
