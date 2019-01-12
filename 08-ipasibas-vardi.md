@@ -4,6 +4,7 @@
 - [Noteiktā galotne](#noteiktā-galotne)
 - [Pārākā pakāpe](#pārākā-pakāpe)
 - [Vispārākā pakāpe](#vispārākā-pakāpe)
+- [Pamazinājuma/mīlinājuma pakāpe](#pamazinājuma-mīlinājuma-pakāpe)
 
 Īpašības vārdiem ir divējādas galotnes: notiektā un nenoteiktā galotne.
 Viņu locīšanas likumus nosaka tā dzimte un galotnes tips.
@@ -74,3 +75,22 @@ priekšmetiem vai parādībām.
 - ***Vis**skaistākā puķe* / ***Pati** skaistākā puķe*
 - ***Vis**gudrākais bērns* / ***Pats** gudrākais bērns*
 - ***Vis**klusākais čuksts* / ***Pats** klusākais čuksts*
+
+## Pamazinājuma/mīlinājuma pakāpe
+
+|        |                           |
+| ---    | ---                       |
+| **I**  | *galds* → *gald**iņ**š*   |
+| **II** | *brālis* → *brāl**īt**is* |
+| **III* | *tirgus* → *tirdz**iņ**š* |
+| **IV** | *meita* → *meit**iņ**a*   |
+| **V**  | *maize* → *maiz**īt**e*   |
+| **VI** | *zivs* → *zivt**iņ**a*    |
+
+Un vienmēr notiek līdzskaņu mija:
+
+|            |                                                          |
+| ---        | ---                                                      |
+| *k* → *c*  | *ko**k**s* → *ko**c**iņš*<br>*ro**k**a* → *ro**c**iņa*   |
+| *g* → *dz* | *lo**g**s* → *lo**dz**iņš*<br>*po**g**a* → *po**dz**iņa* |
+| *s* → *š*  | *gald**s*** → *galdiņ**š***                              |
