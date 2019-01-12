@@ -78,14 +78,14 @@ priekšmetiem vai parādībām.
 
 ## Pamazinājuma/mīlinājuma pakāpe
 
-|        |                           |
-| ---    | ---                       |
-| **I**  | *galds* → *gald**iņ**š*   |
-| **II** | *brālis* → *brāl**īt**is* |
-| **III* | *tirgus* → *tirdz**iņ**š* |
-| **IV** | *meita* → *meit**iņ**a*   |
-| **V**  | *maize* → *maiz**īt**e*   |
-| **VI** | *zivs* → *zivt**iņ**a*    |
+|         |                           |
+| ---     | ---                       |
+| **I**   | *galds* → *gald**iņ**š*   |
+| **II**  | *brālis* → *brāl**īt**is* |
+| **III** | *tirgus* → *tirdz**iņ**š* |
+| **IV**  | *meita* → *meit**iņ**a*   |
+| **V**   | *maize* → *maiz**īt**e*   |
+| **VI**  | *zivs* → *zivt**iņ**a*    |
 
 Un vienmēr notiek līdzskaņu mija:
 
