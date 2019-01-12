@@ -4,7 +4,7 @@
 - [Noteiktā galotne](#noteiktā-galotne)
 - [Pārākā pakāpe](#pārākā-pakāpe)
 - [Vispārākā pakāpe](#vispārākā-pakāpe)
-- [Pamazinājuma/mīlinājuma pakāpe](#pamazinājuma-mīlinājuma-pakāpe)
+- [Pamazinājuma/mīlinājuma pakāpe](#pamazinājumamīlinājuma-pakāpe)
 
 Īpašības vārdiem ir divējādas galotnes: notiektā un nenoteiktā galotne.
 Viņu locīšanas likumus nosaka tā dzimte un galotnes tips.
