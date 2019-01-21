@@ -23,14 +23,14 @@ mēģinā izprast teksta vispārējo nozīmi
 Saturs
 -------
 
-1. [Alfabēts](01-alfabets.md)
-2. [Lietvārdi](02-lietvardi.md)
-3. [Darbības vārdi](03-darbibas-vardi.md)
-4. [Vārda uzsvars](04-varda-uzsvars.md)
-5. [Prievārdi](05-prievardi.md)
-6. [Saikļi](06-saikli.md)
-7. [Vietniekvārdi](07-vietniekvardi.md)
-8. [Īpašības vārdi](08-ipasibas-vardi.md)
+1. [Alfabēts](nodalas/01-alfabets.md)
+2. [Lietvārdi](nodalas/02-lietvardi.md)
+3. [Darbības vārdi](nodalas/03-darbibas-vardi.md)
+4. [Vārda uzsvars](nodalas/04-varda-uzsvars.md)
+5. [Prievārdi](nodalas/05-prievardi.md)
+6. [Saikļi](nodalas/06-saikli.md)
+7. [Vietniekvārdi](nodalas/07-vietniekvardi.md)
+8. [Īpašības vārdi](nodalas/08-ipasibas-vardi.md)
 
 Paldies
 -------
