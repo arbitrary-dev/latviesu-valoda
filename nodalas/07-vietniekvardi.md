@@ -9,23 +9,25 @@ Vietniekvārdi
 | **A** | *mani*  | *tevi*  | *mūs*   | *jūs*   | *sevi*  |
 | **L** | *manī*  | *tevī*  | *mūsos* | *jūsos* | *sevī*  |
 
-|       | v.v.<sup>1</sup> | v.s.    | dz.v.    | dz.s.   |
-| ---   | ---              | ---     | ---      | ---     |
-| **N** | *pats*           | *pati*  | *paši*   | *pašas* |
-| **Ģ** | *paša*           | *pašas* | *pašu*   | *pašu*  |
-| **D** | *pašam*          | *pašai* | *pašiem* | *pašām* |
-| **A** | *pašu*           | *pašu*  | *pašus*  | *pašas* |
-| **L** | *pašā*           | *pašā*  | *pašos*  | *pašās* |
+|       | v.v.\*  | v.s.    | dz.v.    | dz.s.   |
+| ---   | ---     | ---     | ---      | ---     |
+| **N** | *pats*  | *pati*  | *paši*   | *pašas* |
+| **Ģ** | *paša*  | *pašas* | *pašu*   | *pašu*  |
+| **D** | *pašam* | *pašai* | *pašiem* | *pašām* |
+| **A** | *pašu*  | *pašu*  | *pašus*  | *pašas* |
+| **L** | *pašā*  | *pašā*  | *pašos*  | *pašās* |
 
-<sup>1</sup> vienskaitlis / daudzskaitlis, vīriešu / sieviešu dzimte
+\* vienskaitlis / daudzskaitlis, vīriešu / sieviešu dzimte
 
-|       | v.v.   | v.s.   | dz.v.   | dz.s.   |
-| ---   | ---    | ---    | ---     | ---     |
-| **N** | *šis*  | *šī*   | *šie*   | *šīs*   |
-| **Ģ** | *šā*   | *šās*  | *šo*    | *šo*    |
-| **D** | *šim*  | *šai*  | *šiem*  | *šīm*   |
-| **A** | *šo*   | *šo*   | *šos*   | *šīs*   |
-| **L** | *šajā* | *šajā* | *šajos* | *šajās* |
+|       | v.v.        | v.s.          | dz.v.   | dz.s.   |
+| ---   | ---         | ---           | ---     | ---     |
+| **N** | *šis*       | *šī*          | *šie*   | *šīs*   |
+| **Ģ** | *šī* / *šā* | *šīs* / *šās* | *šo*    | *šo*    |
+| **D** | *šim*       | *šai*         | *šiem*  | *šīm*   |
+| **A** | *šo*        | *šo*          | *šos*   | *šīs*   |
+| **L** | *šajā*      | *šajā*        | *šajos* | *šajās* |
+
+\* reti lietoti
 
 1. Norāda uz vietas vai laika ziņā tuvāko (būtni, priekšmetu, parādību)
 2. Zināma persona (tuvinieks, paziņa), ko piemin, par ko runā
