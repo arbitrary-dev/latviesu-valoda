@@ -1,6 +1,6 @@
 # Īpašības vārdi
 
-← [uz saturu](../#saturs)
+← [Uz saturu](../README.md#saturs)
 - [Nenoteiktā galotne](#nenoteiktā-galotne)
 - [Noteiktā galotne](#noteiktā-galotne)
 - [Pārākā pakāpe](#pārākā-pakāpe)
