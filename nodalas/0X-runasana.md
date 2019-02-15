@@ -1,13 +1,21 @@
 Runāšanas
 =========
 
-## Kā jūs sauc?
+[← uz saturu](https://github.com/arbitrary-dev/latviesu-valoda#saturs)
 
-Man sauc Semyon.
+## Jautājumi
 
-## Kur jūs dzīvojat?
-
-Es dzīvoju rīgas pilsetā.
+- Kā jūs sauc?
+- Kur jūs dzīvojat?
+- Kur jūs esat dzimis/-usi?
+- Kad jūs esat dzimis/-usi?
+- Cik cilvēku ir jūsu ģimenē?
+- Ar ko viņi nodarbojas? / Kur viņi strādā vai mācās?
+- Kur mācījāties jūs?
+- Kādu skolu jūs beidzāt?
+- Pastāstiet par savu dzīves vietu!
+- Kurā stāvā jūs dzīvojat?
+- Kādas mēbeles ir jūsu dzīvoklī?
 
 ## Kur jūs strādājat?
 
