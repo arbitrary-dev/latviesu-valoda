@@ -1,5 +1,6 @@
 # Īpašības vārdi
 
+← [uz saturu](../#saturs)
 - [Nenoteiktā galotne](#nenoteiktā-galotne)
 - [Noteiktā galotne](#noteiktā-galotne)
 - [Pārākā pakāpe](#pārākā-pakāpe)
