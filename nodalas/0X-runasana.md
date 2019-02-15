@@ -1,7 +1,7 @@
 Runāšanas
 =========
 
-[← uz saturu](https://github.com/arbitrary-dev/latviesu-valoda#saturs)
+← [Uz saturu](../README.md#saturs)
 
 ## Jautājumi
 
