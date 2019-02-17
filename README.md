@@ -31,6 +31,7 @@ Saturs
 6. [Saikļi](nodalas/06-saikli.md)
 7. [Vietniekvārdi](nodalas/07-vietniekvardi.md)
 8. [Īpašības vārdi](nodalas/08-ipasibas-vardi.md)
+9. [Runāšanas](nodalas/09-runasanas.md)
 
 Paldies
 -------
