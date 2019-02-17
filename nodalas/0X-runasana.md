@@ -16,37 +16,27 @@ Runāšanas
 - Pastāstiet par savu dzīves vietu!
 - Kurā stāvā jūs dzīvojat?
 - Kādas mēbeles ir jūsu dzīvoklī?
-
-## Kur jūs strādājat?
-
-Es strādāju veiksmīgī uzņēmumī, kas ir vidzars savā nozarē.
-
-## Cik ilgi jūs strādājat šajā vietā?
-
-Šajā vietā es strādāju jau pusgadu laiku.
-
-## Kādi ir jūsu darba pienākumi?
-
-Manis darba pienākumi ir darīt savu darbu un darīt viņu ļoti labi.
-Es izstrādāju programmatūru.
-
-## Kas jums patīk un kas nepatīk jūsu darbā? Kāpēc?
-
-Man ļoti patīk cilvekus manā darbā un nepatīk dzīvnieku, papagaili. Kāpēc?
-Tāpēc ka viņš ir ļoti skaļš un bezkaunīgs, kad zagt svešaiju pārtiku.
-
-## Kur jūs apguvāt savu profesiju?
-
-Es ilgi un sāpīgi sevi izglītoju pats.
-
-## Kādēļ jūs izvēlējāties šo profesiju/darbavietu?
-
-Tas ir viss, ko es varu darīt.
-
-Kādas citas profesijas/specialitātes vēl jums patīk un interesē? Kāpēc?
-Kur jūs pērkat pārtikas produktus? Kāpēc tieši šajā veikalā?
-Ko jūs darāt brīvajā laikā?
-Kurš gadalaiks jums patīk?
+- Ar ko jūs braucat uz kursiem, veikalu, tirgu, ciemos, … ?
+- Kur jūs strādājat? (tagadne)
+- Cik ilgi jūs strādājat šajā vietā?
+- Kādi ir jūsu darba pienākumi?
+- Kas jums patīk un kas nepatīk jūsu darbā? Kāpēc?
+- Kur jūs apguvāt savu profesiju?
+- Kādēļ jūs izvēlējāties šo profesiju / darbavietu?
+- Kur jūs strādājāt? (pagātne)
+- Par ko jūs strādājāt?
+- No cikiem līdz cikiem jūs strādājāt?
+- Kadi bija jūsu darba pienākumi?
+- Ko jūs darījāt savā darba vietā?
+- Kas jums patika vai nepatika darba vietā?
+- Kādas citas profesijas / specialitātes vēl jums patīk un interesē? Kāpēc?
+- Ko jūs darāt brīvajā laikā?
+- Kur jūs pērkat pārtikas produktus? Kāpēc tieši šajā veikalā?
+- Kāds ir jūsu vaļasprieks?
+- Ko jūs lasāt?
+- Kurš gadalaiks jums patīk? Jūsu mīļākais gadalaiks ir …
+- Uz kurieni jūs gribētu aizbraukt? Kur jūs esat bijis?
+- Latvija, latvieši, …
 
 ## Balsta frāzes
 
