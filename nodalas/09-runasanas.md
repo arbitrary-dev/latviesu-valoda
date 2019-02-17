@@ -20,13 +20,13 @@ Runāšanas
 1. *Kurā stāvā jūs dzīvojat?*
 1. *Kādas mēbeles ir jūsu dzīvoklī?*
 1. *Ar ko jūs braucat uz kursiem, veikalu, tirgu, ciemos, … ?*
-1. *Kur jūs strādājat? (tagadne)*
+1. *Kur jūs strādājat?* (tagadne)
 1. *Cik ilgi jūs strādājat šajā vietā?*
 1. *Kādi ir jūsu darba pienākumi?*
 1. *Kas jums patīk un kas nepatīk jūsu darbā? Kāpēc?*
 1. *Kur jūs apguvāt savu profesiju?*
 1. *Kādēļ jūs izvēlējāties šo profesiju / darbavietu?*
-1. *Kur jūs strādājāt? (pagātne)*
+1. *Kur jūs strādājāt?* (pagātne)
 1. *Par ko jūs strādājāt?*
 1. *No cikiem līdz cikiem jūs strādājāt?*
 1. *Kādi bija jūsu darba pienākumi?*
