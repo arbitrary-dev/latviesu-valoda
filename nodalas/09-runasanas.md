@@ -13,7 +13,7 @@ Runāšanas
 - Kur jūs esat dzimis/-usi?
 - Kad jūs esat dzimis/-usi?
 - Cik cilvēku ir jūsu ģimenē?
-- Ar ko viņi nodarbojas? / Kur viņi strādā vai mācās?
+- Ar ko viņi nodarbojas? Kur viņi strādā vai mācās?
 - Kur mācījāties jūs?
 - Kādu skolu jūs beidzāt?
 - Pastāstiet par savu dzīves vietu!
@@ -29,7 +29,7 @@ Runāšanas
 - Kur jūs strādājāt? (pagātne)
 - Par ko jūs strādājāt?
 - No cikiem līdz cikiem jūs strādājāt?
-- Kadi bija jūsu darba pienākumi?
+- Kādi bija jūsu darba pienākumi?
 - Ko jūs darījāt savā darba vietā?
 - Kas jums patika vai nepatika darba vietā?
 - Kādas citas profesijas / specialitātes vēl jums patīk un interesē? Kāpēc?
