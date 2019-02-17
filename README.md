@@ -6,8 +6,7 @@ savū... šo repozitorija "Issues" nodaļū.
 
 Tātad, sāksim!
 
-Kā mācīties
------------
+## Kā mācīties
 
 1. Izmanto [tulkotāju](https://translate.google.lv/#lv/en/Gudrinieks!)
 2. Lejupielādē [GoldenDict](http://goldendict.org) un [latviešu vārdnīcu](
@@ -20,8 +19,7 @@ viņas ir bezmaksas
 5. Lasi grāmatas, nav nepieciešams tulkot katru vārdu, tikai lasi skaļi un
 mēģinā izprast teksta vispārējo nozīmi
 
-Saturs
--------
+## Saturs
 
 1. [Alfabēts](nodalas/01-alfabets.md)
 2. [Lietvārdi](nodalas/02-lietvardi.md)
@@ -33,8 +31,7 @@ Saturs
 8. [Īpašības vārdi](nodalas/08-ipasibas-vardi.md)
 9. [Runāšanas](nodalas/09-runasanas.md)
 
-Paldies
--------
+## Paldies
 
 1. [Latvijas universitātes matemātikas un informātikas institūta mākslīgā intelekta laboratorija](
    http://valoda.ailab.lv/latval/vispareji/lgraml-w/lgraml.htm)
