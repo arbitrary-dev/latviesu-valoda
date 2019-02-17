@@ -3,6 +3,9 @@ Runāšanas
 
 ← [Uz saturu](../README.md#saturs)
 
+- [Jautājumi](#jautājumi)
+- [Balsta frāzes](#balsta-frāzes)
+
 ## Jautājumi
 
 - Kā jūs sauc?
