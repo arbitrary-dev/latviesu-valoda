@@ -40,3 +40,4 @@ mēģinā izprast teksta vispārējo nozīmi
 4. [Latvian Oxford living dictionaries](https://lv.oxforddictionaries.com)
 5. [Dina Ezeriņa. Latviešu valodas pašmācība iesācējiem](
    http://www.zvaigzne.lv/lv/gramatas/apraksts/91753-latviesu_valodas_pasmaciba_iesacejiem_cd_samoucitelj_latisskogo_jazika_dlja_nacinausih.html)
+6. [Mensarius](http://mensarius.lv/index.php/lv/kursi-un-cenas)
