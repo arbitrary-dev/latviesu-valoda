@@ -43,6 +43,58 @@ Runāšanas
 
 ## Balsta frāzes
 
+### Uzruna
+
+1. *Labdien, cienītamā Ozolas kundze!*
+1. *Labdien, godātais Ozola kungs!*
+1. *Sveika, mīļā Anna!*
+1. *Sveiks, mīļais Andrej!*
+1. *Labdien, dārgā Ināra!*
+1. *Labdien, dārgais draugs!*
+1. *Labdien, Oļeg!*
+
+### Kā iesākt neoficiālu vēstuli
+
+1. *Sen neesam tikušies / tikušās*
+2. *Sen neesmu Tev rakstījis / rakstījusi*
+3. *Paldies par vēstuli*
+4. *Saņemu Tavu vēstuli*
+
+### Kā palūgt
+
+1. *Lūdzu palīdzi man (kaut ko izdarīt)*
+2. *Esi tik labs / laba, palīdzi man*
+3. *Man Tev ir liels lūgums*
+
+### Kā atvainoties
+
+1. *Piedod, ka traucēju*
+2. *Atvaino par sagādātajām neērtībām*
+3. *Es ļoi atvainojos, bet man vajadzīga Tava palīdzība*
+
+### Kā pateikties
+
+1. *Liels paldies*
+2. *Paldies par palīdzību*
+3. *Būsu Tev bezgala pateicīgs / pateicīga*
+4. *Iepriekš pateicos!*
+
+### Dažadi lūgumi
+
+1. *Lūdzu piezvani man*
+2. *Lūdzu, uzraksti man vēstuli!*
+3. *Lūdzu atbrauc pie manis ciemos*
+4. *Ielūdzu tevi ciemos!*
+
+### Vēstules nobeigumam
+
+1. *Visu labu!*
+2. *Uz redzēšanos!*
+3. *Gaidu Tevi! Skūpstu!*
+4. *Līdz vasarai. Līdz vakaram!*
+
+### Apraksts
+
 1. *Uzskatu, ka …*
 1. *No savas pieredzes varu secināt …*
 1. *Sabiedrībā valda uzskats, ka …*
@@ -60,6 +112,6 @@ Runāšanas
 1. *Visbeidzot, treškārt, …*
 1. *Apkopojot faktus / informāciju, varu secināt, ka …*
 1. *Izvērtējot cēloņus / argumentus / faktus un veicot to savstarpējo salīdzināšanu,*
-  nākas secināt, ka …
+   nākas secināt, ka …
 1. *Man ļoti būtiski šķiet …*
 1. *No teiktā izriet, ka …*
