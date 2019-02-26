@@ -93,6 +93,53 @@ Runāšanas
 3. *Gaidu Tevi! Skūpstu!*
 4. *Līdz vasarai. Līdz vakaram!*
 
+### Sveicieni
+
+1. *Sveiciens no mana vīra / dēla / tēva*
+1. *Sveicini sievu / vīru / ģimeni!*
+1. *Nodod sveicienus Ivaram / Inārai no manis un ģimenes*
+1. *Sveiciens no manas sievas / meitas / mātes / ģimenes*
+1. *Sveiciens sievai / meitai / mātei / ģimenei / vīram / tēvam / dēlam*
+
+### Apsveikumi un novēlējumi
+
+1. *Sveicu Tevi dzimšanas dienā!*
+1. *Laimīgu Jauno gadu / ceļojumu!*
+1. *Vēlu Tev veselibu, laimu, prieku, panākums darbā un ģimenē!*
+1. *Daudz laimes dzimšanas dienā / vārda dienā / kāzu jubilejā!*
+1. *Priecīgus Līgo svētkus / Ziemassvētkus!*
+
+### Pastāstīt, kā klājas
+
+1. *Man klājas labi*
+1. *Man ir labs darbs*
+1. *Mājās viss pa vecam*
+1. *Jūtos normāli*
+1. *Ģimenē visi veseli*
+1. *Pabeidzu remontēt dzīvokli*
+1. *Man drīz būs atvaļinājums*
+1. *Es braukšu ceļojumā*
+1. *Nodarbojos ar sportu*
+1. *Bērni mācās, sieva / vīrs strādā, vecāki veseli*
+1. *Es tagad kārtoju eksāmenus naturalizācijai, es gribu iegūt LR pilsonību*
+
+### Pajautāt, kā klājas
+
+1. *Kā Tev klājas? Ko tu dari?*
+2. *Ko dara Anna / Oļegs?*
+3. *Kas jauns darbā / ģimenē?*
+4. *Ko plāno darīt šajā vasarā / ziemā / atvaļinājumā?*
+
+### Aicinājums ciemos
+
+1. *Gaidu Tevi ciemos*
+2. *Ielūdzu Tevi pie sevis ciemos*
+3. *Lūdzu apciemo mani / mūs!*
+
+### Nākotnes plāni
+
+### Brīvais laiks. Visinteresantākais notikums
+
 ### Apraksts
 
 1. *Uzskatu, ka …*
