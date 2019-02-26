@@ -158,7 +158,7 @@ Runāšanas
 1. *Otrkārt, …*
 1. *Visbeidzot, treškārt, …*
 1. *Apkopojot faktus / informāciju, varu secināt, ka …*
-1. *Izvērtējot cēloņus / argumentus / faktus un veicot to savstarpējo salīdzināšanu,*
-   nākas secināt, ka …
+1. *Izvērtējot cēloņus / argumentus / faktus un veicot to savstarpējo salīdzināšanu,
+   nākas secināt, ka …*
 1. *Man ļoti būtiski šķiet …*
 1. *No teiktā izriet, ka …*
