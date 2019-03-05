@@ -5,6 +5,21 @@ Runāšanas
 
 - [Jautājumi](#jautājumi)
 - [Balsta frāzes](#balsta-frāzes)
+  - [Uzruna](#uzruna)
+  - [Kā iesākt neoficiālu vēstuli](#kā-iesākt-neoficiālu-vēstuli)
+  - [Kā palūgt](#kā-palūgt)
+  - [Kā atvainoties](#kā-atvainoties)
+  - [Kā pateikties](#kā-pateikties)
+  - [Dažadi lūgumi](#dažadi-lūgumi)
+  - [Vēstules nobeigumam](#vēstules-nobeigumam)
+  - [Sveicieni](#sveicieni)
+  - [Apsveikumi un novēlējumi](#apsveikumi-un-novēlējumi)
+  - [Pastāstīt, kā klājas](#pastāstīt,-kā-klājas)
+  - [Pajautāt, kā klājas](#pajautāt,-kā-klājas)
+  - [Aicinājums ciemos](#aicinājums-ciemos)
+  - [Nākotnes plāni](#nākotnes-plāni)
+  - [Brīvais laiks. Visinteresantākais notikums](#brīvais-laiks.-visinteresantākais-notikums)
+  - [Apraksts](#apraksts)
 
 ## Jautājumi
 
