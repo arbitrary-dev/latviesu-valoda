@@ -14,11 +14,11 @@ Runāšanas
   - [Vēstules nobeigumam](#vēstules-nobeigumam)
   - [Sveicieni](#sveicieni)
   - [Apsveikumi un novēlējumi](#apsveikumi-un-novēlējumi)
-  - [Pastāstīt, kā klājas](#pastāstīt,-kā-klājas)
-  - [Pajautāt, kā klājas](#pajautāt,-kā-klājas)
+  - [Pastāstīt, kā klājas](#pastāstīt-kā-klājas)
+  - [Pajautāt, kā klājas](#pajautāt-kā-klājas)
   - [Aicinājums ciemos](#aicinājums-ciemos)
   - [Nākotnes plāni](#nākotnes-plāni)
-  - [Brīvais laiks. Visinteresantākais notikums](#brīvais-laiks.-visinteresantākais-notikums)
+  - [Brīvais laiks. Visinteresantākais notikums](#brīvais-laiks-visinteresantākais-notikums)
   - [Apraksts](#apraksts)
 
 ## Jautājumi
