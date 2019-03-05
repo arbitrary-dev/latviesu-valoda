@@ -94,7 +94,7 @@ Runāšanas
 3. *Būsu Tev bezgala pateicīgs / pateicīga*
 4. *Iepriekš pateicos!*
 
-### Dažadi lūgumi
+### Dažādi lūgumi
 
 1. *Lūdzu piezvani man*
 2. *Lūdzu, uzraksti man vēstuli!*
