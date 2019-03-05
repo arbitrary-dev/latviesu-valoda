@@ -73,7 +73,7 @@ Runāšanas
 1. *Sen neesam tikušies / tikušās*
 2. *Sen neesmu Tev rakstījis / rakstījusi*
 3. *Paldies par vēstuli*
-4. *Saņemu Tavu vēstuli*
+4. *Saņēmu Tavu vēstuli*
 
 ### Kā palūgt
 
