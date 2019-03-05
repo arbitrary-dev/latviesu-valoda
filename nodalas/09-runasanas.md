@@ -10,7 +10,7 @@ Runāšanas
   - [Kā palūgt](#kā-palūgt)
   - [Kā atvainoties](#kā-atvainoties)
   - [Kā pateikties](#kā-pateikties)
-  - [Dažadi lūgumi](#dažadi-lūgumi)
+  - [Dažādi lūgumi](#dažādi-lūgumi)
   - [Vēstules nobeigumam](#vēstules-nobeigumam)
   - [Sveicieni](#sveicieni)
   - [Apsveikumi un novēlējumi](#apsveikumi-un-novēlējumi)
