@@ -85,7 +85,7 @@ Runāšanas
 
 1. *Piedod, ka traucēju*
 2. *Atvaino par sagādātajām neērtībām*
-3. *Es ļoi atvainojos, bet man vajadzīga Tava palīdzība*
+3. *Es ļoti atvainojos, bet man vajadzīga Tava palīdzība*
 
 ### Kā pateikties
 
