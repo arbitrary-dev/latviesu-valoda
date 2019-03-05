@@ -138,7 +138,21 @@ Runāšanas
 
 ### Nākotnes plāni
 
+1. *Es vēlos studēt*
+1. *Es vēlos atrast labāku darbu*
+1. *Es vēlos doties / braukt ceļojumā*
+1. *Es gribu apprecēties*
+1. *Es gribu remontēt dzīvokli*
+1. *Es gribu iemācīties angļu valodu*
+1. *Es gribu labi pabeigt skolu iestāties augstskolā*
+
 ### Brīvais laiks. Visinteresantākais notikums
+
+1. *Man nav daudz brīva laika, bet kad ir es atpūšos pie jūras / vasarnīcā,
+   strādāju dārzā, pastaigājos, eju ciemos, nodarbojos ar sportu / ar bērniem
+   / ar savu suni*
+2. *Manā dzīvē nesen bija ļoti interesants notikums*
+3. *Es biju Parīzē. Parīze ir ļoti skaista pilsēta*
 
 ### Apraksts
 
