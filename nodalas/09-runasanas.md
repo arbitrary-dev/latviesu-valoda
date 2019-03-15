@@ -20,6 +20,7 @@ Runāšanas
   - [Nākotnes plāni](#nākotnes-plāni)
   - [Brīvais laiks. Visinteresantākais notikums](#brīvais-laiks-visinteresantākais-notikums)
   - [Apraksts](#apraksts)
+- [Darba piedāvājums](#darba-piedāvājums)
 
 ## Jautājumi
 
@@ -191,3 +192,9 @@ Runāšanas
    nākas secināt, ka …*
 1. *Man ļoti būtiski šķiet …*
 1. *No teiktā izriet, ka …*
+
+## Darba piedāvājums
+
+|Reflektants|Darba devējs|
+|---|---|
+|- Labdien!<br>- Sveicināti!|- Kā varu pakalpot?<br>- Kā varu palīdzēt?<br>- Ar ko varu palīdzēt?<br>- Jā, lūdzu!|
