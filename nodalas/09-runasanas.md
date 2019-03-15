@@ -198,4 +198,4 @@ Runāšanas
 | Reflektants | Darba devējs |
 | :--         | :--          |
 | - Labdien! <br> - Sveicināti! | - Kā varu pakalpot? <br> - Kā varu palīdzēt? <br> - Ar ko varu palīdzēt? <br> - Jā, lūdzu! |
-| - Es vēlētos uzzināt ko tuvāk par darba piedāvājumiem. <br> - Man interesē, kādu darbu jūs piedāvājat. <br> - Es zvanu sakarā ar sludinājumu par vakancēm. | - Labprāt! <br> Mēs piedāvājam… <br> - Mums vajadzīgi… |
+| - Es vēlētos uzzināt ko tuvāk par darba piedāvājumiem. <br> - Man interesē, kādu darbu jūs piedāvājat. <br> - Es zvanu sakarā ar sludinājumu par vakancēm. | - Labprāt! <br> - Mēs piedāvājam… <br> - Mums vajadzīgi… |
