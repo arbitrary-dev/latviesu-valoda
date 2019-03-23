@@ -197,8 +197,8 @@ Runāšanas
 
 | Reflektants | Darba devējs |
 | :--         | :--          |
-| - Labdien! <br> - Sveicināti! | - Kā varu pakalpot? Kā varu palīdzēt? <br> - Ar ko varu palīdzēt? - Jā, lūdzu! |
-| - Es vēlētos uzzināt ko tuvāk par darba piedāvājumiem. <br> - Man interesē, kādu darbu jūs piedāvājat. <br> - Es zvanu sakarā ar sludinājumu par vakancēm. | - Labprāt! <br> - Mēs piedāvājam… <br> - Mums vajadzīgi… <br> |
+| - Labdien! <br> - Sveicināti! | - Kā varu pakalpot? Kā varu palīdzēt? <br> - Ar ko varu palīdzēt? Jā, lūdzu! |
+| - Es vēlētos uzzināt ko tuvāk par darba piedāvājumiem. <br> - Man interesē, kādu darbu jūs piedāvājat. <br> - Es zvanu sakarā ar sludinājumu par vakancēm. | - Labprāt! <br> - Mēs piedāvājam… <br> - Mums vajadzīgi… |
 | - Kādu darbu, kādus amatus jūs piedāvājat? <br> - Man interesē galdnieka, šofera, sekretāres, noliktavas pārziņa, sētnieka, <br>komercdirektora, menedžera, … darbs / amats. | |
 | - Kas nepieciešams, lai strādātu par … ? <br> - Kādas ir jūsu prasības šim amatam? | - Sekretāres / menedžera amatam ir nepieciešama … izglītība, pieredze, rekomendācijas, … |
 | - Kādi ir darba pienākumi? <br> - Kas man būtu jādara? <br> - Ar ko vajadzēs nodarboties? <br> - Par ko es būšu atbildīgs? | - Jums jāpārdod / jāraksta <br> / jāmazgā <br> / jāorganizē <br> / jāvada … |
