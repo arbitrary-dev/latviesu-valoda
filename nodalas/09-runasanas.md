@@ -197,13 +197,13 @@ Runāšanas
 
 | Reflektants | Darba devējs |
 | :--         | :--          |
-| - Labdien! <br> - Sveicināti! | - Kā varu pakalpot? Kā varu palīdzēt? <br> - Ar ko varu palīdzēt? Jā, lūdzu! |
+| - Labdien! <br> - Sveicināti! | - Kā varu pakalpot? Kā varu palīdzēt? <br> - Ar ko varu palīdzēt? |
 | - Es vēlētos uzzināt ko tuvāk par darba piedāvājumiem. <br> - Man interesē, kādu darbu jūs piedāvājat. <br> - Es zvanu sakarā ar sludinājumu par vakancēm. | - Labprāt! <br> - Jā, lūdzu! <br> - Mēs piedāvājam … <br> - Mums vajadzīgi … |
-| - Kādu darbu, kādus amatus jūs piedāvājat? <br> - Man interesē galdnieka, šofera, sekretāres, noliktavas pārziņa, sētnieka, <br>komercdirektora, menedžera, … darbs / amats. | |
+| - Kādu darbu, kādus amatus jūs piedāvājat? <br> - Man interesē galdnieka, šofera, sekretāres, noliktavas pārziņa, sētnieka, komercdirektora, menedžera, … darbs / amats. | |
 | - Kas nepieciešams, lai strādātu par … ? <br> - Kādas ir jūsu prasības šim amatam? | - Sekretāres / menedžera amatam ir nepieciešama … izglītība, pieredze, rekomendācijas, … |
 | - Kādi ir darba pienākumi? <br> - Kas man būtu jādara? <br> - Ar ko vajadzēs nodarboties? <br> - Par ko es būšu atbildīgs? | - Jums jāpārdod / jāraksta <br> / jāmazgā <br> / jāorganizē <br> / jāvada … |
 | - Kāds ir darba laiks? <br> - Vai darbs ir maiņās? <br> - Vai iespējams virsstundu darbs, kā arī darbs brīvdienās? | - No … līdz … <br> - Dažreiz <br> - Noteikti nē <br> - Parasti nē |
 | - Vai jums ir darba samaksa par stundām var par veikto darbu? <br> - Cik reizes mēnesī tiek izmaksāta alga? <br> - Kāds ir algas izmaksas veids? <br> - Vai iespējams piemaksas un prēmijas? | |
-| - Kāda ir jūsu firmas adrese? <br> - Kur un kam man jāiesniedz dokumenti? <br> - Kādi dokumenti nepieciešami, lai iestātos darbā? | - Personāla daļā, sekretārei. <br> - Pases kopija, izglītības dokuments (origināls vai kopija), medicīniskā izziņa, fotokartītes, … |
+| - Kāda ir jūsu firmas adrese? <br> - Kur un kam man jāiesniedz dokumenti? <br> - Kādi dokumenti nepieciešami, lai iestātos darbā? | - Personāla daļā, sekretārei. <br> - Pases kopija, izglītības dokuments (oriģināls vai kopija), medicīniskā izziņa, fotokartītes, … |
 | - Līdz kuram datumam var pieteikties? | |
-| - Vai man tiks paziņoti konkursa rezultāti? <br> - Kā es uzzināšu par konkursa rezultātiem? <br> - Vai būs pārrunas pirms stāšanās darbā? | - Jā, protams, noteikti, katrā ziņā! <br> - Kā jums var piezvanīt? Mēs jums piezvanīsim! <br> - Jā, pārrunu datums un laiks jums tiks paziņots. |
+| - Vai man tiks paziņoti konkursa rezultāti? <br> - Kā es uzzināšu par konkursa rezultātiem? <br> - Vai būs pārrunas pirms stāšanās darbā? | - Jā, protams, noteikti, katrā ziņā! Pārrunu datums un laiks jums tiks paziņots. <br> - Kā ar jums var sazināties? <br> - Kā jums var piezvanīt? Mēs jums piezvanīsim! |
