@@ -206,4 +206,4 @@ Runāšanas
 | - Vai jums ir darba samaksa par stundām var par veikto darbu? <br> - Cik reizes mēnesī tiek izmaksāta alga? <br> - Kāds ir algas izmaksas veids? <br> - Vai iespējams piemaksas un prēmijas? | |
 | - Kāda ir jūsu firmas adrese? <br> - Kur un kam man jāiesniedz dokumenti? <br> - Kādi dokumenti nepieciešami, lai iestātos darbā? | - Personāla daļā, sekretārei. <br> - Pases kopija, izglītības dokuments (oriģināls vai kopija), medicīniskā izziņa, fotokartītes, … |
 | - Līdz kuram datumam var pieteikties? | |
-| - Vai man tiks paziņoti konkursa rezultāti? <br> - Kā es uzzināšu par konkursa rezultātiem? <br> - Vai būs pārrunas pirms stāšanās darbā? | - Jā, protams, noteikti, katrā ziņā! Pārrunu datums un laiks jums tiks paziņots. <br> - Kā ar jums var sazināties? <br> - Kā jums var piezvanīt? Mēs jums piezvanīsim! |
+| - Vai man tiks paziņoti konkursa rezultāti? <br> - Kā es uzzināšu par konkursa rezultātiem? <br> - Vai būs pārrunas pirms stāšanās darbā? | - Jā, protams, noteikti, katrā ziņā! <br> - Pārrunu datums un laiks jums tiks paziņots. <br> - Kā ar jums var sazināties? <br> - Kā jums var piezvanīt? Mēs jums piezvanīsim! |
