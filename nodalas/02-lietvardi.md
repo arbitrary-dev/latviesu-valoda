@@ -1,6 +1,17 @@
 Lietvārdi
 =========
 
+← [Uz saturu](../README.md#saturs)
+
+- [Locījumi](#locījumi)
+- [Deklinācijas](#deklinācijas)
+- [I deklinācija](#i-deklinācija)
+- [II deklinācija](#ii-deklinācija)
+- [V deklinācija](#v-deklinācija)
+- [VI deklinācija](#vi-deklinācija)
+- [Vienskaitlinieku piemēri](#vienskaitlinieku-piemēri)
+- [Daudzskaitlinieku piemēri](#daudzskaitlinieku-piemēri)
+
 ## Locījumi
 
 - **Nominatīvs** – *kas?*
