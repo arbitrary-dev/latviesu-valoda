@@ -22,9 +22,19 @@ Lietvārdi
 - **Lokatīvs** – *kur?*
 - **Vokatīvs** – bez jautājuma
 
+### Vokatīvs
+
+Vienskaitļa vokatīvā nav galotnes deminutīviem un pirmās deklinācijas
+lietvārdiem, kuri vienskaitļa nominatīvā beidzas ar *-tājs*, *-ājs*, *-ējs*,
+*-nieks*:
+
+*māsiņa* → *māsiņ*!  
+*meitiņa* → *meitiņ*!  
+*skolotājs* → *skolotāj*!
+
 ## Deklinācijas
 
-Vienskaitlis
+### Vienskaitlis
 
 |       | I           | II      | III     | IV      | V       | VI      |
 | :-:   | :-:         | :-:     | :-:     | :-:     | :-:     | :-:     |
@@ -36,7 +46,7 @@ Vienskaitlis
 | **L** | *-ā*        | *-ī*    | *-ū*    | *-ā*    | *-ē*    | *-ī*    |
 | **V** | *-s/š*      | *-i*    | *-u*    | *-a*    | *-e*    | *-s*    |
 
-Daudzskaitlis
+### Daudzskaitlis
 
 |       | I, II\*, III | IV       | V        | VI       |
 | :-:   | :-:          | :-:      | :-:      | :-:      |
