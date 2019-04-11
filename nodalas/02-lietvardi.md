@@ -28,9 +28,9 @@ Vienskaitļa vokatīvā nav galotnes deminutīviem un pirmās deklinācijas
 lietvārdiem, kuri vienskaitļa nominatīvā beidzas ar *-tājs*, *-ājs*, *-ējs*,
 *-nieks*:
 
-*māsiņa* → *māsiņ*!  
-*meitiņa* → *meitiņ*!  
-*skolotājs* → *skolotāj*!
+*māsiņa* → *māsiņ!*  
+*meitiņa* → *meitiņ!*  
+*skolotājs* → *skolotāj!*
 
 ## Deklinācijas
 
