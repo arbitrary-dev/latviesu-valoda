@@ -32,6 +32,25 @@ lietvārdiem, kuri vienskaitļa nominatīvā beidzas ar:
 *meitiņa* → *meitiņ!*  
 *skolotājs* → *skolotāj!*
 
+Vokatīvs vīriešu dzimtes lietvārdiem var būt bez galotnes:
+
+*brālis* → *brāl!*  
+*akmens* → *akmen!*  
+*Kaspars* → *Kaspar!*  
+*Pēters* → *Pēter!*
+
+Kaut kādiem vārdiem ir paralēlas formas:
+
+*māsa* → *māsa! mās!*  
+*meita* → *meita! meit!*  
+*sieva* → *sieva! siev!*  
+*tētis* → *tēti! tēt!*
+
+Bet:
+
+*māte* → *māt!*  
+*tēvs* → *tēv!*
+
 ## Deklinācijas
 
 ### Vienskaitlis
