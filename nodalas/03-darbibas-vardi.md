@@ -51,15 +51,15 @@ Māmiņas sevišķas sniegpārsliņas
 
 ### Būt
 
-|      | Tagadne              | Pagātne | Nākotne       |
-| ---  | ---                  | ---     | ---           |
-| es   | esmu                 | biju    | būšu          |
-| tu   | esi                  | biji    | būsi          |
-| v.v. | ir / nav<sup>1</sup> | bija    | būs           |
-| mēs  | esam                 | bijām   | būsim         |
-| jūs  | esat                 | bijāt   | būsit, būsiet |
+|      | Tagadne    | Pagātne | Nākotne       |
+| ---  | ---        | ---     | ---           |
+| es   | esmu       | biju    | būšu          |
+| tu   | esi        | biji    | būsi          |
+| v.v. | ir / nav\* | bija    | būs           |
+| mēs  | esam       | bijām   | būsim         |
+| jūs  | esat       | bijāt   | būsit, būsiet |
 
-<sup>1</sup> visos citos gadījumos negācijai izmantots priedēkli *ne-*
+\* visos citos gadījumos negācijai izmantots priedēkli *ne-*
 
 ### Iet
 
