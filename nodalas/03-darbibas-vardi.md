@@ -29,6 +29,23 @@ citos 90% gadījumos nav -i*
 <sup>3</sup> *tikai dziedāt un raudāt*  
 <sup>4</sup> *jūtu darbības vārdi*
 
+Priedēkļi
+---------
+
+### Gramatiski
+
+*jā-*, *ne-*
+
+### Leksiski
+
+*aiz-*, *ap-*, *at-*, *ie-*, *iz-*, *no-*, *pa-*, *pār-*, *pie-*, *sa-*, *uz-*
+
+### Dubultā
+
+Darbības vārdam drīkst pievienot divus priedēkļus tikai tad, ja viens no tiem
+ir nolieguma priedēklis *ne-*, vajadzības izteiksmes priedēklis *jā-* vai
+pirmais priedēklis jau sen sakņojas saknē *pazīt* → *iepazīt*.
+
 Māmiņas sevišķas sniegpārsliņas
 -------------------------------
 
