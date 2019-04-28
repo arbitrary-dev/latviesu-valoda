@@ -22,12 +22,12 @@ Deklinācijas
 | **Pagātne** | es<br>tu<br>v.v.<br>mēs<br>jūs | -os<br>-ies<br>-ās<br>-āmies<br>-āties                | -jos<br>-jies<br>-jās<br>-jāmies<br>-jāties           | -jos<br>-jies<br>-jās<br>-jāmies<br>-jāties                          |
 | **Nākotne** | es<br>tu<br>v.v.<br>mēs<br>jūs | -šos<br>-sies<br>-sies<br>-simies<br>-sieties -sities | -šos<br>-sies<br>-sies<br>-simies<br>-sieties -sities | -šos<br>-sies<br>-sies<br>-simies<br>-sieties -sities                |
 
-\* *kopā izmanto*  
-<sup>1</sup> *viņš viņa viņi viņas... veni vidi vici !*  
-<sup>2</sup> *tikai ja vārds beigties ar -st → -sti,
-citos 90% gadījumos nav -i*  
-<sup>3</sup> *tikai dziedāt un raudāt*  
-<sup>4</sup> *jūtu darbības vārdi*
+\* kopā izmanto  
+<sup>1</sup> viņš viņa viņi viņas... veni vidi vici!  
+<sup>2</sup> tikai ja vārds beigties ar *-st* → *-sti*,
+citos 90% gadījumos nav *-i*  
+<sup>3</sup> tikai *dziedāt* un *raudāt*  
+<sup>4</sup> jūtu darbības vārdi
 
 Priedēkļi
 ---------
@@ -44,7 +44,7 @@ Priedēkļi
 
 Darbības vārdam drīkst pievienot divus priedēkļus tikai tad, ja viens no tiem
 ir nolieguma priedēklis *ne-*, vajadzības izteiksmes priedēklis *jā-* vai
-pirmais priedēklis jau sen sakņojas saknē *pazīt* → *iepazīt*.
+vien no priedēkliem jau sen sakņojas saknē: *pazīt* → *iepazīt*
 
 Māmiņas sevišķas sniegpārsliņas
 -------------------------------
@@ -59,7 +59,7 @@ Māmiņas sevišķas sniegpārsliņas
 | mēs  | esam                 | bijām   | būsim         |
 | jūs  | esat                 | bijāt   | būsit, būsiet |
 
-<sup>1</sup> *visos citos gadījumos negācijai izmantots priedēkli ne-*
+<sup>1</sup> visos citos gadījumos negācijai izmantots priedēkli *ne-*
 
 ### Iet
 
