@@ -57,8 +57,7 @@ Priedēkļi
 
 Darbības vārdam drīkst pievienot divus priedēkļus tikai tad, ja viens no tiem
 ir nolieguma priedēklis *ne-*, vajadzības izteiksmes priedēklis *jā-* vai
-vien no priedēkliem jau sen sakņojas saknē:
-*pazīt* → ***ie**pazīt* → ***ne**iepazīt*
+vien no priedēkliem jau sen sakņojas saknē: ***pa**zīt* → ***ie**pazīt*
 
 Māmiņas sevišķas sniegpārsliņas
 -------------------------------
