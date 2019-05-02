@@ -34,11 +34,24 @@ Priedēkļi
 
 ### Gramatiski
 
-*jā-*, *ne-*
+- Nolieguma priedēklis *ne-*  
+  *Es **ne**bušu kalpot armijā!*
+- Vajadzības izteiksmes priedēklis *jā-*  
+  *Tur **jā**būt slikti.*
 
 ### Leksiski
 
-*aiz-*, *ap-*, *at-*, *ie-*, *iz-*, *no-*, *pa-*, *pār-*, *pie-*, *sa-*, *uz-*
+- *aiz-*
+- *ap-*
+- *at-*
+- *ie-*
+- *iz-*
+- *no-*
+- *pa-*
+- *pār-*
+- *pie-*
+- *sa-*
+- *uz-*
 
 ### Dubultā
 
