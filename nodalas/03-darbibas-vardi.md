@@ -4,16 +4,16 @@ Darbības vārdi
 ← [Uz saturu](../README.md#saturs)
 
 - [Deklinācijas](#deklinācijas)
--- [Tiešie](#tiešie)
--- [Atgriezeniskie](#atgriezeniskie)
+  - [Tiešie](#tiešie)
+  - [Atgriezeniskie](#atgriezeniskie)
 - [Priedēkļi](#priedēkļi)
--- [Gramatiski](#gramatiski)
--- [Leksiski](#leksiski)
--- [Dubultā](#dubultā)
+  - [Gramatiski](#gramatiski)
+  - [Leksiski](#leksiski)
+  - [Dubultā](#dubultā)
 - [Māmiņas sevišķas sniegpārsliņas](#māmiņas-sevišķas-sniegpārsliņas)
--- [Būt](#būt)
--- [Iet](#iet)
--- [Dot](#dot)
+  - [Būt](#būt)
+  - [Iet](#iet)
+  - [Dot](#dot)
 
 Deklinācijas
 ------------
