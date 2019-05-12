@@ -57,11 +57,11 @@ Priedēkļi
 
 #### *aiz-*
 
-|                                                                               |                                                     |
-| ---                                                                           | ---                                                 |
-| *Katrs trešais jaunietis Krievijā sapņo **aiz**braukt un nekad neatgriezties* | Darbība notiek, attālinoties vai virzoties uz mērķi |
-| *Kaut kāds lipīgs draņķis **aiz**krist aiz vējjakas un turpināja degt*        | Darbība notiek, virzotiest aiz kaut kā              |
-| *Pandoras kasti var tikai atvērt, **aiz**vērt vairs ne*                       | Kaut ko aiztaisa ciet vai tur aizvērtā stāvoklī     |
+|                                                                                |                                                      |
+| ---                                                                            | ---                                                  |
+| *Katrs trešais jaunietis Krievijā sapņo **aiz**braukt un nekad neatgriezties.* | Darbība notiek, attālinoties vai virzoties uz mērķi. |
+| *Kaut kāds lipīgs draņķis **aiz**krist aiz vējjakas un turpināja degt.*        | Darbība notiek, virzotiest aiz kaut kā.              |
+| *Pandoras kasti var tikai atvērt, **aiz**vērt vairs ne.*                       | Kaut ko aiztaisa ciet vai tur aizvērtā stāvoklī.     |
 
 - *ap-*
 - *at-*
