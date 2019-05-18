@@ -57,11 +57,18 @@ Priedēkļi
 
 #### *aiz-*
 
-|                                                                                |                                                      |
-| ---                                                                            | ---                                                  |
-| *Katrs trešais jaunietis Krievijā sapņo **aiz**braukt un nekad neatgriezties.* | Darbība notiek, attālinoties vai virzoties uz mērķi. |
-| *Kaut kāds lipīgs draņķis **aiz**krist aiz vējjakas un turpināja degt.*        | Darbība notiek, virzotiest aiz kaut kā.              |
-| *Pandoras kasti var tikai atvērt, **aiz**vērt vairs ne.*                       | Kaut ko aiztaisa ciet vai tur aizvērtā stāvoklī.     |
+|                                                                                |                                                                       |
+| ---                                                                            | ---                                                                   |
+| *Katrs trešais jaunietis Krievijā sapņo **aiz**braukt un nekad neatgriezties.* | Darbība notiek, attālinoties vai virzoties uz mērķi.                  |
+| *Kaut kāds lipīgs draņķis **aiz**krist aiz vējjakas un turpināja degt.*        | Darbība notiek, virzotiest aiz kaut kā.                               |
+| *Pandoras kasti var tikai atvērt, **aiz**vērt vairs ne.*                       | Kaut ko aiztaisa ciet vai tur aizvērtā stāvoklī.                      |
+| *Ungārija plāno **aiz**žogat visu ārējo ES robežu.*                            | Darbība rada šķēršļus.                                                |
+| *Laiks ir pienāca lai **aiz**degt sārtu bērēs.*                                | Norāda uz darbības sākumu vai pēkšņumu, īslaicīgumu.                  |
+| ***Aiz**cirsts šo krūmu vai to?*                                               | Norāda uz darbības daļēju vai nepilnīgu veikšanu.                     |
+| ***aiz**lūgt*                                                                  | Norāda, ka darbība notiek kādam par labu.                             |
+| ***aiz**ņemt*                                                                  | Norāda, ka ar pamatvārdu nosauktā darbība kaut ko rezervē un saglabā. |
+| ***aiz**gulēties*                                                              | Norāda, ka darbība notiek pārāk ilgi vai tālu.                        |
+| ***aiz**bēgt*                                                                  | Norāda uz darbības pabeigtību.                                        |
 
 - *ap-*
 - *at-*
