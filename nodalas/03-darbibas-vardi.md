@@ -65,8 +65,8 @@ Priedēkļi
 | *Ungārija plāno **aiz**žogat visu ārējo ES robežu.*                            | Darbība rada šķēršļus.                                                |
 | *Laiks ir pienāca lai **aiz**degt sārtu bērēs.*                                | Norāda uz darbības sākumu vai pēkšņumu, īslaicīgumu.                  |
 | ***Aiz**cirsts šo krūmu vai to?*                                               | Norāda uz darbības daļēju vai nepilnīgu veikšanu.                     |
-| ***aiz**lūgt*                                                                  | Norāda, ka darbība notiek kādam par labu.                             |
-| ***aiz**ņemt*                                                                  | Norāda, ka ar pamatvārdu nosauktā darbība kaut ko rezervē un saglabā. |
+| *Es **aiz**lūgu par prātu visiem cilvēkiem.*                                   | Norāda, ka darbība notiek kādam par labu.                             |
+| *Mums vajag **aiz**sargāt latviešu vīdi no krievijās ļaundabīgas ietekmes.*    | Norāda, ka ar pamatvārdu nosauktā darbība kaut ko rezervē un saglabā. |
 | ***aiz**gulēties*                                                              | Norāda, ka darbība notiek pārāk ilgi vai tālu.                        |
 | ***aiz**bēgt*                                                                  | Norāda uz darbības pabeigtību.                                        |
 
