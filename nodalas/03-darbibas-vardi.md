@@ -49,9 +49,9 @@ Priedēkļi
 ### Gramatiski
 
 - Nolieguma priedēklis *ne-*  
-  *Es **ne**bušu kalpot armijā!*
+  \- *Es **ne**bušu kalpot armijā!*
 - Vajadzības izteiksmes priedēklis *jā-*  
-  *Tur **jā**būt slikti.*
+  \- *Tur **jā**būt slikti.*
 
 ### Leksiski
 
@@ -90,34 +90,34 @@ vien no priedēkliem jau sen sakņojas saknē: ***pa**zīt* → ***ie**pazīt*
 Māmiņas sevišķas sniegpārsliņas
 -------------------------------
 
-### būt
+### *būt*
 
-|      | Tagadne    | Pagātne | Nākotne       |
-| ---  | ---        | ---     | ---           |
-| es   | esmu       | biju    | būšu          |
-| tu   | esi        | biji    | būsi          |
-| v.v. | ir / nav\* | bija    | būs           |
-| mēs  | esam       | bijām   | būsim         |
-| jūs  | esat       | bijāt   | būsit, būsiet |
+|      | Tagadne        | Pagātne | Nākotne           |
+| ---  | ---            | ---     | ---               |
+| es   | *esmu*         | *biju*  | *būšu*            |
+| tu   | *esi*          | *biji*  | *būsi*            |
+| v.v. | *ir* / *nav*\* | *bija*  | *būs*             |
+| mēs  | *esam*         | *bijām* | *būsim*           |
+| jūs  | *esat*         | *bijāt* | *būsit*, *būsiet* |
 
 \* visos citos gadījumos negācijai izmantots priedēkli *ne-*
 
-### iet
+### *iet*
 
-|      | Tagadne | Pagātne | Nākotne       |
-| ---  | ---     | ---     | ---           |
-| es   | eju     | gāju    | iešu          |
-| tu   | ej      | gāji    | iesi          |
-| v.v. | iet     | gāja    | ies           |
-| mēs  | ejam    | gājām   | iesim         |
-| jūs  | ejat    | gājāt   | iesit, iesiet |
+|      | Tagadne | Pagātne | Nākotne           |
+| ---  | ---     | ---     | ---               |
+| es   | *eju*   | *gāju*  | *iešu*            |
+| tu   | *ej*    | *gāji*  | *iesi*            |
+| v.v. | *iet*   | *gāja*  | *ies*             |
+| mēs  | *ejam*  | *gājām* | *iesim*           |
+| jūs  | *ejat*  | *gājāt* | *iesit*, *iesiet* |
 
-### dot
+### *dot*
 
-|      | Tagadne | Pagātne | Nākotne       |
-| ---  | ---     | ---     | ---           |
-| es   | dodu    | devu    | došu          |
-| tu   | dod     | devi    | dosi          |
-| v.v. | dod     | deva    | dos           |
-| mēs  | dodam   | devām   | dosim         |
-| jūs  | dodat   | devāt   | dosit, dosiet |
+|      | Tagadne | Pagātne | Nākotne           |
+| ---  | ---     | ---     | ---               |
+| es   | *dodu*  | *devu*  | *došu*            |
+| tu   | *dod*   | *devi*  | *dosi*            |
+| v.v. | *dod*   | *deva*  | *dos*             |
+| mēs  | *dodam* | *devām* | *dosim*           |
+| jūs  | *dodat* | *devāt* | *dosit*, *dosiet* |
