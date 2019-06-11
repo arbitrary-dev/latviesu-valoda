@@ -67,8 +67,8 @@ Priedēkļi
 | ***Aiz**cirsts šo krūmu vai to?*                                               | Norāda uz darbības daļēju vai nepilnīgu veikšanu.                     |
 | *Es **aiz**lūgu par prātu visiem cilvēkiem.*                                   | Norāda, ka darbība notiek kādam par labu.                             |
 | *Mums vajag **aiz**sargāt latviešu vīdi no krievijās ļaundabīgas ietekmes.*    | Norāda, ka ar pamatvārdu nosauktā darbība kaut ko rezervē un saglabā. |
-| ***aiz**gulēties*                                                              | Norāda, ka darbība notiek pārāk ilgi vai tālu.                        |
-| ***aiz**bēgt*                                                                  | Norāda uz darbības pabeigtību.                                        |
+| *Ja tu būsi pasīvs, tu var **aiz**gulēties cauri dzīves svinībām.*             | Norāda, ka darbība notiek pārāk ilgi vai tālu.                        |
+| *Tev tikai paliek **aiz**bēgt, lai izdzīvot.*                                  | Norāda uz darbības pabeigtību.                                        |
 
 - *ap-*
 - *at-*
