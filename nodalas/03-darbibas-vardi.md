@@ -11,9 +11,9 @@ Darbības vārdi
   - [Leksiski](#leksiski)
   - [Dubultā](#dubultā)
 - [Māmiņas sevišķas sniegpārsliņas](#māmiņas-sevišķas-sniegpārsliņas)
-  - [Būt](#būt)
-  - [Iet](#iet)
-  - [Dot](#dot)
+  - [būt](#būt)
+  - [iet](#iet)
+  - [dot](#dot)
 
 Deklinācijas
 ------------
@@ -90,7 +90,7 @@ vien no priedēkliem jau sen sakņojas saknē: ***pa**zīt* → ***ie**pazīt*
 Māmiņas sevišķas sniegpārsliņas
 -------------------------------
 
-### Būt
+### būt
 
 |      | Tagadne    | Pagātne | Nākotne       |
 | ---  | ---        | ---     | ---           |
@@ -102,7 +102,7 @@ Māmiņas sevišķas sniegpārsliņas
 
 \* visos citos gadījumos negācijai izmantots priedēkli *ne-*
 
-### Iet
+### iet
 
 |      | Tagadne | Pagātne | Nākotne       |
 | ---  | ---     | ---     | ---           |
@@ -112,7 +112,7 @@ Māmiņas sevišķas sniegpārsliņas
 | mēs  | ejam    | gājām   | iesim         |
 | jūs  | ejat    | gājāt   | iesit, iesiet |
 
-### Dot
+### dot
 
 |      | Tagadne | Pagātne | Nākotne       |
 | ---  | ---     | ---     | ---           |
