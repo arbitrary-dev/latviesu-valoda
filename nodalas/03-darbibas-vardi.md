@@ -105,16 +105,26 @@ Priedēkļi
 | *Ja tu būsi pasīvs, tu var **aiz**gulēties cauri dzīves svinībām.*             | Norāda, ka darbība notiek pārāk ilgi vai tālu.                        |
 | *Tev tikai paliek **aiz**bēgt, lai izdzīvot.*                                  | Norāda uz darbības pabeigtību.                                        |
 
-- *ap-*
-- *at-*
-- *ie-*
-- *iz-*
-- *no-*
-- *pa-*
-- *pār-*
-- *pie-*
-- *sa-*
-- *uz-*
+#### *ap-*
+
+|                 |                                                                    |
+| ---             | ---                                                                |
+| ***ap**iet*     | Darbība notiek kaut kam apkārt, daļēji vai pilnīgi kaut ko aptver. |
+| ***ap**mest*    | Darbība tiek apvērsta, notiek pretējā secībā.                      |
+| ***ap**taustīt* | Darbība skar tikai virspusi, virskārtu.                            |
+| ***ap**braukāt* | Darbība attiecas uz daudziem.                                      |
+| ***ap**melot*   | Darbība notiek kādam par labu vai ļaunu.                           |
+| ***ap**gulties* | Norāda uz darbības pabeigtību.                                     |
+
+#### *at-*
+#### *ie-*
+#### *iz-*
+#### *no-*
+#### *pa-*
+#### *pār-*
+#### *pie-*
+#### *sa-*
+#### *uz-*
 
 ### Dubultā
 
