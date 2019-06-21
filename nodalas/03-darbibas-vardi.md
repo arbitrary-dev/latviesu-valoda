@@ -117,6 +117,24 @@ Priedēkļi
 | ***ap**gulties* | Norāda uz darbības pabeigtību.                                     |
 
 #### *at-*
+
+|                          |                                                                    |
+| ---                      | ---                                                                |
+| ***at**celt*             | Darbība notiek, lai atdalītu, attālinātu, šķirtu.                  |
+| ***at**ārdīt*            | Norāda, ka darbība notiek, lai kaut ko atvērtu.                    |
+| ***at**braukt*           | Norāda, ka notiek kustība virzienā šurp.                           |
+| ***at**likt*             | Norāda, ka darbība vērsta virzienā uz izejas punktu, uz aizmuguri. |
+| ***at**mosties*          | Norāda uz agrākā stāvokļa atjaunošanu.                             |
+| ***at**durties*          | Norāda, ka darbība beidzas.                                        |
+| ***at**teikt*            | Norāda, ka darbība vērsta pret kaut ko kā atbilde vai noraidījums. |
+| ***at**spītēt*           | Darbība ir atmaksa, pretdarbība.                                   |
+| ***at**tēlot*            | Kas tiek atstāstīts vai atkārtots citā veidā.                      |
+| ***at**dalīties*         | Darbības rezultātā tiek kaut kas sadalīts, nodalīts.               |
+| ***at**skanēt*           | Norāda uz darbības sākumu, pēkšņumu īslaicīgumu.                   |
+| ***at**dzerties*         | Norāda, ka darbība notiek pārmērīgi vai līdz apnikumam.            |
+| ***at**cirst* (ar cirvi) | Darbības rezultātā kaut kas tiek bojāts.                           |
+| ***at**minēt*            | Norāda uz darbības pabeigtību.                                     |
+
 #### *ie-*
 #### *iz-*
 #### *no-*
