@@ -6,14 +6,14 @@ Darbības vārdi
 - [Deklinācijas](#deklinācijas)
   - [Tiešie](#tiešie)
   - [Atgriezeniskie](#atgriezeniskie)
-- [Priedēkļi](#priedēkļi)
-  - [Gramatiski](#gramatiski)
-  - [Leksiski](#leksiski)
-  - [Dubultā](#dubultā)
 - [Māmiņas sevišķas sniegpārsliņas](#māmiņas-sevišķas-sniegpārsliņas)
   - [būt](#būt)
   - [iet](#iet)
   - [dot](#dot)
+- [Priedēkļi](#priedēkļi)
+  - [Gramatiski](#gramatiski)
+  - [Leksiski](#leksiski)
+  - [Dubultā](#dubultā)
 
 Deklinācijas
 ------------
@@ -42,6 +42,41 @@ Deklinācijas
 citos 90% gadījumos nav *-i*  
 <sup>3</sup> tikai *dziedāt* un *raudāt*  
 <sup>4</sup> jūtu darbības vārdi
+
+Māmiņas sevišķas sniegpārsliņas
+-------------------------------
+
+### *būt*
+
+|      | Tagadne        | Pagātne | Nākotne           |
+| ---  | ---            | ---     | ---               |
+| es   | *esmu*         | *biju*  | *būšu*            |
+| tu   | *esi*          | *biji*  | *būsi*            |
+| v.v. | *ir* / *nav*\* | *bija*  | *būs*             |
+| mēs  | *esam*         | *bijām* | *būsim*           |
+| jūs  | *esat*         | *bijāt* | *būsit*, *būsiet* |
+
+\* visos citos gadījumos negācijai izmantots priedēkli *ne-*
+
+### *iet*
+
+|      | Tagadne | Pagātne | Nākotne           |
+| ---  | ---     | ---     | ---               |
+| es   | *eju*   | *gāju*  | *iešu*            |
+| tu   | *ej*    | *gāji*  | *iesi*            |
+| v.v. | *iet*   | *gāja*  | *ies*             |
+| mēs  | *ejam*  | *gājām* | *iesim*           |
+| jūs  | *ejat*  | *gājāt* | *iesit*, *iesiet* |
+
+### *dot*
+
+|      | Tagadne | Pagātne | Nākotne           |
+| ---  | ---     | ---     | ---               |
+| es   | *dodu*  | *devu*  | *došu*            |
+| tu   | *dod*   | *devi*  | *dosi*            |
+| v.v. | *dod*   | *deva*  | *dos*             |
+| mēs  | *dodam* | *devām* | *dosim*           |
+| jūs  | *dodat* | *devāt* | *dosit*, *dosiet* |
 
 Priedēkļi
 ---------
@@ -86,38 +121,3 @@ Priedēkļi
 Darbības vārdam drīkst pievienot divus priedēkļus tikai tad, ja viens no tiem
 ir nolieguma priedēklis *ne-*, vajadzības izteiksmes priedēklis *jā-* vai
 vien no priedēkliem jau sen sakņojas saknē: ***pa**zīt* → ***ie**pazīt*
-
-Māmiņas sevišķas sniegpārsliņas
--------------------------------
-
-### *būt*
-
-|      | Tagadne        | Pagātne | Nākotne           |
-| ---  | ---            | ---     | ---               |
-| es   | *esmu*         | *biju*  | *būšu*            |
-| tu   | *esi*          | *biji*  | *būsi*            |
-| v.v. | *ir* / *nav*\* | *bija*  | *būs*             |
-| mēs  | *esam*         | *bijām* | *būsim*           |
-| jūs  | *esat*         | *bijāt* | *būsit*, *būsiet* |
-
-\* visos citos gadījumos negācijai izmantots priedēkli *ne-*
-
-### *iet*
-
-|      | Tagadne | Pagātne | Nākotne           |
-| ---  | ---     | ---     | ---               |
-| es   | *eju*   | *gāju*  | *iešu*            |
-| tu   | *ej*    | *gāji*  | *iesi*            |
-| v.v. | *iet*   | *gāja*  | *ies*             |
-| mēs  | *ejam*  | *gājām* | *iesim*           |
-| jūs  | *ejat*  | *gājāt* | *iesit*, *iesiet* |
-
-### *dot*
-
-|      | Tagadne | Pagātne | Nākotne           |
-| ---  | ---     | ---     | ---               |
-| es   | *dodu*  | *devu*  | *došu*            |
-| tu   | *dod*   | *devi*  | *dosi*            |
-| v.v. | *dod*   | *deva*  | *dos*             |
-| mēs  | *dodam* | *devām* | *dosim*           |
-| jūs  | *dodat* | *devāt* | *dosit*, *dosiet* |
