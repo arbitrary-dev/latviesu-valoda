@@ -136,13 +136,90 @@ Priedēkļi
 | ***at**minēt*            | Norāda uz darbības pabeigtību.                                     |
 
 #### *ie-*
+
+|                  |     |
+| ---              | --- |
+| ***ie**braukt*   |     |
+| ***ie**plēst*    |     |
+| ***ie**kustināt* |     |
+| ***ie**dot*      |     |
+
 #### *iz-*
+
+|                           |     |
+| ---                       | --- |
+| ***iz**iet*               |     |
+| ***iz**bārstīt*           |     |
+| ***iz**pīpēt, **iz**mirt* |     |
+| ***iz**durt*              |     |
+| ***iz**augt, **iz**pētīt* |     |
+
 #### *no-*
+
+|                               |     |
+| ---                           | --- |
+| ***no**braukt*                |     |
+| ***no**skrūvēt, **no**pļaut*  |     |
+| ***no**sēt, **no**līmēt*      |     |
+| ***no**strādāt, **no**skriet* |     |
+| ***no**pīkstēt*               |     |
+| ***no**strādāties*            |     |
+| ***no**pirkt*                 |     |
+
 #### *pa-*
+
+|                        |     |
+| ---                    | --- |
+| ***pa**bāzt*           |     |
+| ***pa**braukt (garām)* |     |
+| ***pa**runāt*          |     |
+| ***pa**ēst*            |     |
+
 #### *pār-*
+
+|                            |                             |
+| ---                        | ---                         |
+| ***pār**iet **pār** tiltu* |                             |
+| ***pār**iet citā darbā*    |                             |
+| ***pār**rakstīt*           |                             |
+| ***pār**karsēt*            |                             |
+| ***pār**dzīvot*            | supersede                   |
+| ***pār**dzīvot*            | overcome or fill time range |
+| ***pār**cirst*             |                             |
+| ***pār**akmeņoties*        |                             |
+| ***pār**ņemt*              |                             |
+| ***pār**nākt*              |                             |
+| ***pār**prast*             |                             |
+
 #### *pie-*
+
+|                              |     |
+| ---                          | --- |
+| ***pie**būvēt*               |     |
+| ***pie**aust, **pie**smēķēt* |     |
+| ***pie**vērt*                |     |
+| ***pie**zvanīt*              |     |
+
 #### *sa-*
+
+|                     |     |
+| ---                 | --- |
+| ***sa**augt*        |     |
+| ***sa**braukt*      |     |
+| ***sa**dāvināt*     |     |
+| ***sa**draudzēties* |     |
+| ***sa**zvanīt*      |     |
+| ***sa**cirst*       |     |
+| ***sa**kārtot*      |     |
+
 #### *uz-*
+
+|                        |     |
+| ---                    | --- |
+| ***uz**līmēt*          |     |
+| ***uz**braukt (kalnā)* |     |
+| ***uz**ziedēt*         |     |
+| ***uz**rakstīt*        |     |
 
 ### Dubultā
 
