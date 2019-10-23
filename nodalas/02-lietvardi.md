@@ -83,21 +83,21 @@ Bet:
 
 \* līdzskaņu pret galotni mija
 
-|         |                                               |
-| ---     | ---                                           |
-| s / š   | *ķirsis* → *ķirša*; *klase* → *klašu*         |
-| t / š   | *latvietis* → *latvieša*; *biete* → *biešu*   |
-| z / ž   | *nazis* → *naža*; *avīze* → *avīžu*           |
-| d / ž   | *atbilde* → *atbilžu*; *sirds* → *siržu*      |
-| c / č   | *māksliniece* → *mākslinieču*                 |
-| dz / dž | *palodze* → *palodžu*                         |
-| l / ļ   | *aprīlis* → *aprīļa*; *egle* → *egļu*         |
-| n / ņ   | *dārzenis* → *dārzeņa*; *avene* → *aveņu*     |
-| p / pj  | *skapis* → *skapja*; *sāpes* → *sāpju*        |
-| b / bj  | *krabis* → *krabja*                           |
-| m / mj  | *laime* → *laimju*                            |
-| v / vj  | *plikgalvis* → *plikgalvja*; *rīve* → *rīvju* |
-| sn / šņ | *aploksne* → *aplokšņu*; *krāsns* → *krāšņu*  |
+|             |                                                  |
+| ---         | ---                                              |
+| **s / š**   | *ķirsis* → *ķirša*<br/>*klase* → *klašu*         |
+| **t / š**   | *latvietis* → *latvieša*<br/>*biete* → *biešu*   |
+| **z / ž**   | *nazis* → *naža*<br/>*avīze* → *avīžu*           |
+| **d / ž**   | *atbilde* → *atbilžu*<br/>*sirds* → *siržu*      |
+| **c / č**   | *māksliniece* → *mākslinieču*                    |
+| **dz / dž** | *palodze* → *palodžu*                            |
+| **l / ļ**   | *aprīlis* → *aprīļa*<br/>*egle* → *egļu*         |
+| **n / ņ**   | *dārzenis* → *dārzeņa*<br/>*avene* → *aveņu*     |
+| **p / pj**  | *skapis* → *skapja*<br/>*sāpes* → *sāpju*        |
+| **b / bj**  | *krabis* → *krabja*                              |
+| **m / mj**  | *laime* → *laimju*                               |
+| **v / vj**  | *plikgalvis* → *plikgalvja*<br/>*rīve* → *rīvju* |
+| **sn / šņ** | *aploksne* → *aplokšņu*<br/>*krāsns* → *krāšņu*  |
 
 ## I deklinācija
 
