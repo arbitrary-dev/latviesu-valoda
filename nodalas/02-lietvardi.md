@@ -54,6 +54,9 @@ Bet:
 
 ## Deklinācijas
 
+**I**, **II** un **III** ir vīriešu dzimtes lietvārdi.  
+**IV**, **V** un **VI** ir pārsvari sieviešu dzimtes lietvārdi.
+
 ### Vienskaitlis
 
 |       | I           | II      | III     | IV      | V       | VI      |
@@ -80,8 +83,21 @@ Bet:
 
 \* līdzskaņu pret galotni mija
 
-**I**, **II** un **III** ir vīriešu dzimtes lietvārdi  
-**IV**, **V** un **VI** ir pārsvari sieviešu dzimtes lietvārdi
+|         |                                               |
+| ---     | ---                                           |
+| s / š   | *ķirsis* → *ķirša*; *klase* → *klašu*         |
+| t / š   | *latvietis* → *latvieša*; *biete* → *biešu*   |
+| z / ž   | *nazis* → *naža*; *avīze* → *avīžu*           |
+| d / ž   | *atbilde* → *atbilžu*; *sirds* → *siržu*      |
+| c / č   | *māksliniece* → *mākslinieču*                 |
+| dz / dž | *palodze* → *palodžu*                         |
+| l / ļ   | *aprīlis* → *aprīļa*; *egle* → *egļu*         |
+| n / ņ   | *dārzenis* → *dārzeņa*; *avene* → *aveņu*     |
+| p / pj  | *skapis* → *skapja*; *sāpes* → *sāpju*        |
+| b / bj  | *krabis* → *krabja*                           |
+| m / mj  | *laime* → *laimju*                            |
+| v / vj  | *plikgalvis* → *plikgalvja*; *rīve* → *rīvju* |
+| sn / šņ | *aploksne* → *aplokšņu*; *krāsns* → *krāšņu*  |
 
 ## I deklinācija
 
