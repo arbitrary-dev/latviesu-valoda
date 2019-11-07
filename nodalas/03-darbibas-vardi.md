@@ -48,15 +48,15 @@ Māmiņas sevišķas sniegpārsliņas
 
 ### *būt*
 
-|      | Tagadne                  | Pagātne | Nākotne                       |
-| ---  | ---                      | ---     | ---                           |
-| es   | *esmu*                   | *biju*  | *būšu*                        |
-| tu   | *esi*                    | *biji*  | *būsi*                        |
-| v.v. | *ir* / *nav*<sup>1</sup> | *bija*  | *būs*                         |
-| mēs  | *esam*                   | *bijām* | *būsim*                       |
-| jūs  | *esat*                   | *bijāt* | *būsit*, *būsiet*<sup>2</sup> |
+|      | Tagadne                   | Pagātne | Nākotne                        |
+| ---  | ---                       | ---     | ---                            |
+| es   | *esmu*                    | *biju*  | *būšu*                         |
+| tu   | *esi*                     | *biji*  | *būsi*                         |
+| v.v. | *ir* / *nav* <sup>1</sup> | *bija*  | *būs*                          |
+| mēs  | *esam*                    | *bijām* | *būsim*                        |
+| jūs  | *esat*                    | *bijāt* | *būsit*, *būsiet* <sup>2</sup> |
 
-<sup>1</sup> visos citos gadījumos negācijai izmantots priedēkli *ne-*
+<sup>1</sup> visos citos gadījumos negācijai izmantots priedēkli *ne-*  
 <sup>2</sup> oldskūlīgi
 
 ### *iet*
