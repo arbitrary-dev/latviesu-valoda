@@ -87,7 +87,7 @@ Priedēkļi
 - Nolieguma priedēklis *ne-*  
   \- *Es **ne**bušu kalpot armijā!*
 - Vajadzības izteiksmes priedēklis *jā-*  
-  \- *Tur **jā**būt slikti.*
+  \- *Tur **jā**būt kvēli.*
 
 ### Leksiski
 
@@ -138,22 +138,32 @@ Priedēkļi
 
 #### *ie-*
 
-|                  |     |
-| ---              | --- |
-| ***ie**braukt*   |     |
-| ***ie**plēst*    |     |
-| ***ie**kustināt* |     |
-| ***ie**dot*      |     |
+|                           |                                                                      |
+| ---                       | ---                                                                  |
+| ***ie**braukt*            | Darbība notiek virzienā uz iekšu.                                    |
+| ***ie**plēst*             | Norāda uz darbības nepilnīgumu vai mazu darbības pakāpi.             |
+| ***ie**kustināt*          | Norāda uz darbības sākumu.                                           |
+| ***ie**dot*               | Norāda uz darbības pabeigtību.                                       |
+| ***ie**lenkt              | Norāda, ka ar darbību kaut ko aptver.                                |
+| ***ie**staigāt* (zābakus) | Norāda, ka ar darbību kaut kas tiek sagatavots turpmākajai darbībai. |
+| ***ie**mirdzēties*        | Norāda uz darbības īslaicīgumu.                                      |
+| ***ie**ilgt*              | Norāda uz darbības noturīgumu vai pastāvīgumu.                       |
+| ***ie**ēdināt*            | Norāda, ka ar darbību ietekmē sev par labu.                          |
 
 #### *iz-*
 
-|                           |     |
-| ---                       | --- |
-| ***iz**iet*               |     |
-| ***iz**bārstīt*           |     |
-| ***iz**pīpēt, **iz**mirt* |     |
-| ***iz**durt*              |     |
-| ***iz**augt, **iz**pētīt* |     |
+|                                             |                                                |
+| ---                                         | ---                                            |
+| ***iz**iet*                                 | Darbība vērsta uz āru.                         |
+| ***iz**bārstīt*                             | Darbība vērsta uz visām pusēm.                 |
+| ***iz**pīpēt*                               | Kaut kas tiek iztukšots.                       |
+| ***iz**bradāt* (puķes)                      | Kaut kas tiek bojāts vai iznīcināts.           |
+| ***iz**durt*                                | Darbība virzās kaut kam cauri.                 |
+| ***iz**augt*                                | Norāda uz darbības pabeigtību.                 |
+| ***iz**pētīt*                               | Norāda uz darbības pamatīgumu.                 |
+| ***iz**saiņot*                              | Darbība vērsta uz kaut kā atsegšanu.           |
+| ***iz**saukties*                            | Norāda uz darbības vai procesa pēkšņumu.       |
+| *Tik tikko nolēmu **iz**braukt uz laukiem.* | Norāda uz darbības vai procesa neilgo darbību. |
 
 #### *no-*
 
