@@ -91,7 +91,7 @@ Priedēkļi
 
 ### Leksiski
 
-##### TODO pievienot vairākus piemērus
+**TODO** pievienot vairākus piemērus
 
 #### *aiz-*
 
