@@ -167,16 +167,16 @@ Priedēkļi
 
 #### *no-*
 
-|                              |                                                |
-| ---                          | ---                                            |
-| ***no**braukt* (no kalna)    | Darbība vērsta uz leju.                        |
-| ***no**skrūvēt, **no**pļaut* | Kaut kas tiek atdalīts, atšķirts, atvirzīts.   |
-| ***no**sēt, **no**līmēt*     | Norāda uz darbības pamatīgumu, plašumu.        |
-| ***no**strādāt*              | Kaut kas tiek pārspēts.                        |
-| ***no**skriet*               | Tiek veikts kāds attālums, pavdīts kāds laiks. |
-| ***no**pīkstēt*              | Norāda uz darbības īslaicīgumu.                |
-| ***no**strādāties*           | Darbība notiek līdz pārsātinājumu.             |
-| ***no**pirkt*                | Norāda uz darbības pabeigtību.                 |
+|                              |                                                 |
+| ---                          | ---                                             |
+| ***no**braukt* (no kalna)    | Darbība vērsta uz leju.                         |
+| ***no**skrūvēt, **no**pļaut* | Kaut kas tiek atdalīts, atšķirts, atvirzīts.    |
+| ***no**sēt, **no**līmēt*     | Norāda uz darbības pamatīgumu, plašumu.         |
+| ***no**strādāt*              | Kaut kas tiek pārspēts.                         |
+| ***no**skriet*               | Tiek veikts kāds attālums, pavadīts kāds laiks. |
+| ***no**pīkstēt*              | Norāda uz darbības īslaicīgumu.                 |
+| ***no**strādāties*           | Darbība notiek līdz pārsātinājumu.              |
+| ***no**pirkt*                | Norāda uz darbības pabeigtību.                  |
 
 #### *pa-*
 
