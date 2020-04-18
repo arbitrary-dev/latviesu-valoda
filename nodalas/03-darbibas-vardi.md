@@ -167,70 +167,83 @@ Priedēkļi
 
 #### *no-*
 
-|                               |     |
-| ---                           | --- |
-| ***no**braukt*                |     |
-| ***no**skrūvēt, **no**pļaut*  |     |
-| ***no**sēt, **no**līmēt*      |     |
-| ***no**strādāt, **no**skriet* |     |
-| ***no**pīkstēt*               |     |
-| ***no**strādāties*            |     |
-| ***no**pirkt*                 |     |
+|                              |                                                |
+| ---                          | ---                                            |
+| ***no**braukt* (no kalna)    | Darbība vērsta uz leju.                        |
+| ***no**skrūvēt, **no**pļaut* | Kaut kas tiek atdalīts, atšķirts, atvirzīts.   |
+| ***no**sēt, **no**līmēt*     | Norāda uz darbības pamatīgumu, plašumu.        |
+| ***no**strādāt*              | Kaut kas tiek pārspēts.                        |
+| ***no**skriet*               | Tiek veikts kāds attālums, pavdīts kāds laiks. |
+| ***no**pīkstēt*              | Norāda uz darbības īslaicīgumu.                |
+| ***no**strādāties*           | Darbība notiek līdz pārsātinājumu.             |
+| ***no**pirkt*                | Norāda uz darbības pabeigtību.                 |
 
 #### *pa-*
 
-|                        |     |
-| ---                    | --- |
-| ***pa**bāzt*           |     |
-| ***pa**braukt (garām)* |     |
-| ***pa**runāt*          |     |
-| ***pa**ēst*            |     |
+|                        |                                                    |
+| ---                    | ---                                                |
+| ***pa**bāzt*           | Darbība virzās vai virza kaut ko zem kā, apakš kā. |
+| ***pa**braukt* (garām) | Darbība notiek, virzoties kaut kam garām.          |
+| ***pa**runāt*          | Norāda uz darbības ierobežotību, neilgo laiku.     |
+| ***pa**ēst*            | Norāda uz darbības pabeigtību.                     |
+| ***pa**sprukt*         | Kaut ko atbrīvo, palaiž vaļā.                      |
+| ***pa**pildināt*       | Izsaka darbības pakāpenisku kāpinājumu.            |
+| ***pa**stāvēt*         | Norāda, ka darbība turpinās un ir noturīga.        |
 
 #### *pār-*
 
-|                            |                             |
-| ---                        | ---                         |
-| ***pār**iet **pār** tiltu* |                             |
-| ***pār**iet citā darbā*    |                             |
-| ***pār**rakstīt*           |                             |
-| ***pār**karsēt*            |                             |
-| ***pār**dzīvot*            | supersede                   |
-| ***pār**dzīvot*            | overcome or fill time range |
-| ***pār**cirst*             |                             |
-| ***pār**akmeņoties*        |                             |
-| ***pār**ņemt*              |                             |
-| ***pār**nākt*              |                             |
-| ***pār**prast*             |                             |
+|                            |                                                         |
+| ---                        | ---                                                     |
+| ***pār**iet **pār** tiltu* | Norāda, ka ar darbību virzās kaut kam pāri.             |
+| ***pār**staigāt* (laukus)  | Visaptveroša darbība.                                   |
+| ***pār**iet citā darbā*    | Ar darbību notiek vietas maiņa.                         |
+| ***pār**rakstīt*           | Atkārtota darbība.                                      |
+| ***pār**ģērbt*             | Ar atkārtotu darbību pārveido.                          |
+| ***pār**karsēt*            | Norāda darbības pārmērīgumu.                            |
+| ***pār**dzīvot*            | Ar darbību pārspēj kaut ko.                             |
+| ***pār**ciest*             | Darbība notiek visā laika posmā.                        |
+| ***pār**cirst*             | Ar darbību sadala, bojā, ievaino.                       |
+| ***pār**akmeņoties*        | Priekšmets, parādība pārvēršas.                         |
+| ***pār**ņemt*              | Darbības rezultātā kaut kas tiek apsegts.               |
+| ***pār**nākt*              | Darbības rezultātā kaut kas atgriežas sākumpunktā.      |
+| ***pār**prast*             | Norāda uz kļūdīšanos, neprecizitāti darbības rezultātā. |
+| ***pār**šķirstīt*          | Darbība netiek veikta pamatīgi.                         |
+| ***pār**stāt*              | Izsaka darbības pabeigtību.                             |
 
 #### *pie-*
 
-|                              |     |
-| ---                          | --- |
-| ***pie**būvēt*               |     |
-| ***pie**aust, **pie**smēķēt* |     |
-| ***pie**vērt*                |     |
-| ***pie**zvanīt*              |     |
+|                              |                                                                   |
+| ---                          | ---                                                               |
+| ***pie**būvēt*               | Ar darbību pievieno vai pievienojas kaut kam.                     |
+| ***pie**virzīt*              | Norāda, ka ar darbību kaut kam tuvojas.                           |
+| ***pie**aust, **pie**smēķēt* | Darbības rezultātā kaut kas kļūst pilns vai rodas lielā daudzumā. |
+| ***pie**vērt*                | Darbību veic nelielā mērā vai nepilnīgi.                          |
+| ***pie**zvanīt*              | Norāda uz darbības pabeigtību.                                    |
 
 #### *sa-*
 
-|                     |     |
-| ---                 | --- |
-| ***sa**augt*        |     |
-| ***sa**braukt*      |     |
-| ***sa**dāvināt*     |     |
-| ***sa**draudzēties* |     |
-| ***sa**zvanīt*      |     |
-| ***sa**cirst*       |     |
-| ***sa**kārtot*      |     |
+|                     |                                                           |
+| ---                 | ---                                                       |
+| ***sa**augt*        | Ar darbību kaut ko vieno, saista.                         |
+| ***sa**braukt*      | Darbība vērsta uz kaut ko.                                |
+| ***sa**dāvināt*     | Darbība attiecas uz vairākiem.                            |
+| ***sa**draudzēties* | Darbību veic vairāki.                                     |
+| ***sa**zvanīt*      | Norāda, ka darbība ir sekmīga.                            |
+| ***sa**cirst*       | Darbības rezultātā kaut kas tiek sadalīts vairākās daļās. |
+| ***sa**kārtot*      | Norāda uz darbības pabeigtību.                            |
+| ***sa**runāties*    | Norāda uz darbības ilgstošo raksturu.                     |
+| ***sa**dedzināt*    | Ar darbību kaut ko iznīcina vai bojā.                     |
+| ***sa**mocīties*    | Norāda uz darbības pilnīgumu, pārmērīgumu.                |
+| ***sa**kustēties*   | Norāda uz darbības īslaicīgumu, nobeigtību.               |
 
 #### *uz-*
 
-|                        |     |
-| ---                    | --- |
-| ***uz**līmēt*          |     |
-| ***uz**braukt (kalnā)* |     |
-| ***uz**ziedēt*         |     |
-| ***uz**rakstīt*        |     |
+|                        |                                |
+| ---                    | ---                            |
+| ***uz**līmēt*          | Darbība vērsta uz kaut ko.     |
+| ***uz**braukt (kalnā)* | Darbība vērsta uz augšu.       |
+| ***uz**ziedēt*         | Norāda uz darbības sākumu.     |
+| ***uz**rakstīt*        | Norāda uz darbības pabeigtību. |
 
 ### Dubultā
 
