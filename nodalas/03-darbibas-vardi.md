@@ -144,7 +144,7 @@ Priedēkļi
 | ***ie**plēst*             | Norāda uz darbības nepilnīgumu vai mazu darbības pakāpi.             |
 | ***ie**kustināt*          | Norāda uz darbības sākumu.                                           |
 | ***ie**dot*               | Norāda uz darbības pabeigtību.                                       |
-| ***ie**lenkt              | Norāda, ka ar darbību kaut ko aptver.                                |
+| ***ie**lenkt*             | Norāda, ka ar darbību kaut ko aptver.                                |
 | ***ie**staigāt* (zābakus) | Norāda, ka ar darbību kaut kas tiek sagatavots turpmākajai darbībai. |
 | ***ie**mirdzēties*        | Norāda uz darbības īslaicīgumu.                                      |
 | ***ie**ilgt*              | Norāda uz darbības noturīgumu vai pastāvīgumu.                       |
