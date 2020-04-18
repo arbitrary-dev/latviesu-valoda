@@ -91,6 +91,8 @@ Priedēkļi
 
 ### Leksiski
 
+##### TODO pievienot vairākus piemērus
+
 #### *aiz-*
 
 |                                                                                |                                                                       |
@@ -192,23 +194,23 @@ Priedēkļi
 
 #### *pār-*
 
-|                            |                                                         |
-| ---                        | ---                                                     |
-| ***pār**iet **pār** tiltu* | Norāda, ka ar darbību virzās kaut kam pāri.             |
-| ***pār**staigāt* (laukus)  | Visaptveroša darbība.                                   |
-| ***pār**iet citā darbā*    | Ar darbību notiek vietas maiņa.                         |
-| ***pār**rakstīt*           | Atkārtota darbība.                                      |
-| ***pār**ģērbt*             | Ar atkārtotu darbību pārveido.                          |
-| ***pār**karsēt*            | Norāda darbības pārmērīgumu.                            |
-| ***pār**dzīvot*            | Ar darbību pārspēj kaut ko.                             |
-| ***pār**ciest*             | Darbība notiek visā laika posmā.                        |
-| ***pār**cirst*             | Ar darbību sadala, bojā, ievaino.                       |
-| ***pār**akmeņoties*        | Priekšmets, parādība pārvēršas.                         |
-| ***pār**ņemt*              | Darbības rezultātā kaut kas tiek apsegts.               |
-| ***pār**nākt*              | Darbības rezultātā kaut kas atgriežas sākumpunktā.      |
-| ***pār**prast*             | Norāda uz kļūdīšanos, neprecizitāti darbības rezultātā. |
-| ***pār**šķirstīt*          | Darbība netiek veikta pamatīgi.                         |
-| ***pār**stāt*              | Izsaka darbības pabeigtību.                             |
+|                           |                                                         |
+| ---                       | ---                                                     |
+| ***pār**iet* (pār tiltu)  | Norāda, ka ar darbību virzās kaut kam pāri.             |
+| ***pār**staigāt* (laukus) | Visaptveroša darbība.                                   |
+| ***pār**iet* (citā darbā) | Ar darbību notiek vietas maiņa.                         |
+| ***pār**rakstīt*          | Atkārtota darbība.                                      |
+| ***pār**ģērbt*            | Ar atkārtotu darbību pārveido.                          |
+| ***pār**karsēt*           | Norāda darbības pārmērīgumu.                            |
+| ***pār**dzīvot*           | Ar darbību pārspēj kaut ko.                             |
+| ***pār**ciest*            | Darbība notiek visā laika posmā.                        |
+| ***pār**cirst*            | Ar darbību sadala, bojā, ievaino.                       |
+| ***pār**akmeņoties*       | Priekšmets, parādība pārvēršas.                         |
+| ***pār**ņemt*             | Darbības rezultātā kaut kas tiek apsegts.               |
+| ***pār**nākt*             | Darbības rezultātā kaut kas atgriežas sākumpunktā.      |
+| ***pār**prast*            | Norāda uz kļūdīšanos, neprecizitāti darbības rezultātā. |
+| ***pār**šķirstīt*         | Darbība netiek veikta pamatīgi.                         |
+| ***pār**stāt*             | Izsaka darbības pabeigtību.                             |
 
 #### *pie-*
 
