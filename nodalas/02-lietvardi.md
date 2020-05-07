@@ -67,7 +67,7 @@ Bet:
 | **L** | *-ā*        | *-ī*    | *-ū*    | *-ā*    | *-ē*    | *-ī*    |
 | **V** | *-s/š*      | *-i*    | *-u*    | *-a*    | *-e*    | *-s*    |
 
-#### Tikai vienskaitlī
+#### Tikai vienskaitlī:
 
 |             |             |           |
 | ---         | ---         | ---       |
@@ -110,7 +110,7 @@ Bet:
 
 Dažos vārdos nav mijas, skatī pēc deklināciju zemāk.
 
-#### Tikai daudzskaitlī
+#### Tikai daudzskaitlī:
 
 |            |            |           |              |           |            |           |
 | ---        | ---        | ---       | ---          | ---       | ---        | ---       |
