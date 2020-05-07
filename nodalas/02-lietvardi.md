@@ -23,22 +23,22 @@ Lietvārdi
 ### Vokatīvs
 
 Vienskaitļa vokatīvā nav galotnes deminutīviem un pirmās deklinācijas
-lietvārdiem,  
-kuri vienskaitļa nominatīvā beidzas ar:  
+lietvārdiem, kuri vienskaitļa nominatīvā beidzas ar:
+
 *-tājs*, *-ājs*, *-ējs*, *-nieks*
 
 *māsiņa* → *māsiņ!*  
 *meitiņa* → *meitiņ!*  
 *skolotājs* → *skolotāj!*
 
-Vokatīvs vīriešu dzimtes lietvārdiem var būt bez galotnes:
+#### Vokatīvs vīriešu dzimtes lietvārdiem var būt bez galotnes:
 
 *brālis* → *brāl!*  
 *akmens* → *akmen!*  
 *Kaspars* → *Kaspar!*  
 *Pēters* → *Pēter!*
 
-Kaut kādiem vārdiem ir paralēlas formas:
+#### Kaut kādiem vārdiem ir paralēlas formas:
 
 *māsa* → *māsa! mās!*  
 *meita* → *meita! meit!*  
@@ -125,7 +125,8 @@ Dažos vārdos nav mijas, skatī pēc deklināciju zemāk.
 
 ## I deklinācija
 
-Bez galotnes vienskaitļa vokatīvā:
+#### Bez galotnes vienskaitļa vokatīvā:
+
 1. *tēvs*, *cilvēks* → *tēv! cilvēk!*
 2. *-ājs*, *-tājs*, *-ējs*, *-nieks*, *-īņš*
 3. Vārdi, uzvārdi
@@ -148,9 +149,9 @@ Bez galotnes vienskaitļa vokatīvā:
 2. Vārdi uz *-tis*, *-dis*
 3. Uzvārdi uz *-skis*, *-ckis*
 
-#### Otri izņēmumi
+#### Otri izņēmumi:
 
-*akmens*, *asmens*, *rudens*, *ūdens*, *zibens*, *mēness*, *sāls*:
+*akmens*, *asmens*, *rudens*, *ūdens*, *zibens*, *mēness*, *sāls*
 
 |       | v.s.         |
 | :-:   | :-:          |
@@ -162,7 +163,7 @@ Bez galotnes vienskaitļa vokatīvā:
 | **L** | *akmenī*     |
 | **V** | *akmeni*     |
 
-*suns*:
+*suns*
 
 |       | v.s.       | dz.s.       |
 | :-:   | :-:        | :-:         |
@@ -190,10 +191,6 @@ Bez galotnes vienskaitļa vokatīvā:
 
 ## VI deklinācija
 
-#### Izņēmumi bez mijas:
-
-*acs*, *auss*, *balss*, *debesis*, *dzelzs*, *valsts*, *vēsts*, *zoss*
-
 #### Piemēri:
 
 |           |          |         |          |
@@ -208,3 +205,7 @@ Bez galotnes vienskaitļa vokatīvā:
 #### Daudzskaitlinieki:
 
 *asinis*, *brokastis*, *Cēsis*, *debesis*, *durvis*, *ļaudis*, *smiltis*
+
+#### Izņēmumi bez mijas:
+
+*acs*, *auss*, *balss*, *debesis*, *dzelzs*, *valsts*, *vēsts*, *zoss*
