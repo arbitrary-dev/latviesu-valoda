@@ -132,7 +132,7 @@ Bez galotnes vienskaitļa vokatīvā:
 
 ## II deklinācija
 
-### Līdzskaņu mija piemeri
+#### Līdzskaņu mija piemeri:
 
 *gailis* → *gaiļa*, *gaiļu*  
 *stallis* → *staļļa*, *staļļu*  
@@ -142,13 +142,13 @@ Bez galotnes vienskaitļa vokatīvā:
 *troksnis* → *trokšņa*, *trokšņu*  
 *alksnis* → *alkšņa*, *alkšņu*
 
-### Izņēmumi bez mijas
+#### Izņēmumi bez mijas:
 
 1. *viesis* → *viesa*, *viesu*
 2. Vārdi uz *-tis*, *-dis*
 3. Uzvārdi uz *-skis*, *-ckis*
 
-### Otri izņēmumi
+#### Otri izņēmumi
 
 *akmens*, *asmens*, *rudens*, *ūdens*, *zibens*, *mēness*, *sāls*:
 
@@ -178,34 +178,33 @@ Bez galotnes vienskaitļa vokatīvā:
 
 ## V deklinācija
 
-### Pievērsiet uzmanību šiem miju piemēriem
+#### Pievērsiet uzmanību šiem miju piemēriem:
 
 *lelle* → *leļļu*  
 *zvaigzne* → *zvaigžņu*  
 *sacikstes* →	*sacikšu*
 
-### Izņēmumi bez mijas
+#### Izņēmumi bez mijas:
 
 *aste*, *flote*, *fronte*, *gāze*, *kase*, *kaste*, *mute*, *pase*, *piekraste*
 
 ## VI deklinācija
 
-### Daudzskaitlinieki
-
-*asinis*, *brokastis*, *Cēsis*, *debesis*, *durvis*, *ļaudis*, *smiltis*
-
-### Izņēmumi bez mijas
+#### Izņēmumi bez mijas:
 
 *acs*, *auss*, *balss*, *debesis*, *dzelzs*, *valsts*, *vēsts*, *zoss*
 
-### Otri piemēri
+#### Piemēri:
 
-|           |         |
-| ---       | ---     |
-| *cilts*   | *kūts*  |
-| *govs*    | *pils*  |
-| *izkapts* | *pirts* |
-| *klēts*   | *plīts* |
-| *klints*  | *sirds* |
-| *krāsns*  | *uguns* |
-| *krūts*   | *zivs*  |
+|           |          |         |          |
+| ---       | ---      | ---     | ---      |
+| *asins*   | *klēts*  | *nakts* | *sirds*  |
+| *cilts*   | *klints* | *nots*  | *smilts* |
+| *debess*  | *krāsns* | *pils*  | *takts*  |
+| *govs*    | *krūts*  | *pirts* | *telts*  |
+| *izkapts* | *kūts*   | *plīts* | *uguns*  |
+| *kārts*   | *kvīts*  | *pults* | *zivs*   |
+
+#### Daudzskaitlinieki:
+
+*asinis*, *brokastis*, *Cēsis*, *debesis*, *durvis*, *ļaudis*, *smiltis*
