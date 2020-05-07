@@ -9,8 +9,6 @@ Lietvārdi
 - [II deklinācija](#ii-deklinācija)
 - [V deklinācija](#v-deklinācija)
 - [VI deklinācija](#vi-deklinācija)
-- [Vienskaitlinieku piemēri](#vienskaitlinieku-piemēri)
-- [Daudzskaitlinieku piemēri](#daudzskaitlinieku-piemēri)
 
 ## Locījumi
 
@@ -69,6 +67,17 @@ Bet:
 | **L** | *-ā*        | *-ī*    | *-ū*    | *-ā*    | *-ē*    | *-ī*    |
 | **V** | *-s/š*      | *-i*    | *-u*    | *-a*    | *-e*    | *-s*    |
 
+Tikai vienskaitlī:
+
+|             |             |           |
+| ---         | ---         | ---       |
+| *cituriene* | *lielība*   | *sutoņa*  |
+| *cukurs*    | *lietus*    | *sviests* |
+| *egoisms*   | *malka*     | *tērauds* |
+| *gaidīšana* | *piens*     | *zelts*   |
+| *gaiss*     | *skaistums* |           |
+| *jaunatne*  | *slinkums*  |           |
+
 ### Daudzskaitlis
 
 |       | I, II\*, III | IV       | V        | VI       |
@@ -99,7 +108,20 @@ Bet:
 | **v** / **vj**  | *plikgalvis* → *plikgalvja*<br/>*rīve* → *rīvju* |
 | **sn** / **šņ** | *aploksne* → *aplokšņu*<br/>*krāsns* → *krāšņu*  |
 
-Dažos vārdos nav mijas, skatī zemāk.
+Dažos vārdos nav mijas, skatī pēc deklināciju zemāk.
+
+Tikai daudzskaitlī:
+
+|            |            |           |              |           |            |           |
+| ---        | ---        | ---       | ---          | ---       | ---        | ---       |
+| *Ainaži*   | *bēdas*    | *dūmi*    | *laksti*     | *milti*   | *skābenes* | *vārtiņi* |
+| *alimenti* | *bēres*    | *gaviles* | *lauki*      | *putekļi* | *slāpes*   | *zaļumi*  |
+| *apavi*    | *cepumi*   | *iesnas*  | *lini*       | *raudas*  | *smiekli*  | *ziemeļi* |
+| *austrumi* | *ceriņi*   | *ilgas*   | *Lieldienas* | *rietumi* | *sviedri*  | *ziepes*  |
+| *auzas*    | *dienvidi* | *Jāņi*    | *masalas*    | *rudzi*   | *svētki*   | *žagari*  |
+| *bailes*   | *drēbes*   | *kvieši*  | *medības*    | *rīsi*    | *šķēres*   |           |
+| *beigas*   | *dubļi*    | *kāposti* | *meli*       | *salmi*   | *tauki*    |           |
+| *bikses*   | *dusmas*   | *kāzas*   | *mieži*      | *salāti*  | *Talsi*    |           |
 
 ## I deklinācija
 
@@ -187,27 +209,3 @@ Bez galotnes vienskaitļa vokatīvā:
 | *klints*  | *sirds* |
 | *krāsns*  | *uguns* |
 | *krūts*   | *zivs*  |
-
-## Vienskaitlinieku piemēri
-
-|             |             |           |
-| ---         | ---         | ---       |
-| *cituriene* | *lielība*   | *sutoņa*  |
-| *cukurs*    | *lietus*    | *sviests* |
-| *egoisms*   | *malka*     | *tērauds* |
-| *gaidīšana* | *piens*     | *zelts*   |
-| *gaiss*     | *skaistums* |           |
-| *jaunatne*  | *slinkums*  |           |
-
-## Daudzskaitlinieku piemēri
-
-|            |            |           |              |           |            |           |
-| ---        | ---        | ---       | ---          | ---       | ---        | ---       |
-| *Ainaži*   | *bēdas*    | *dūmi*    | *laksti*     | *milti*   | *skābenes* | *vārtiņi* |
-| *alimenti* | *bēres*    | *gaviles* | *lauki*      | *putekļi* | *slāpes*   | *zaļumi*  |
-| *apavi*    | *cepumi*   | *iesnas*  | *lini*       | *raudas*  | *smiekli*  | *ziemeļi* |
-| *austrumi* | *ceriņi*   | *ilgas*   | *Lieldienas* | *rietumi* | *sviedri*  | *ziepes*  |
-| *auzas*    | *dienvidi* | *Jāņi*    | *masalas*    | *rudzi*   | *svētki*   | *žagari*  |
-| *bailes*   | *drēbes*   | *kvieši*  | *medības*    | *rīsi*    | *šķēres*   |           |
-| *beigas*   | *dubļi*    | *kāposti* | *meli*       | *salmi*   | *tauki*    |           |
-| *bikses*   | *dusmas*   | *kāzas*   | *mieži*      | *salāti*  | *Talsi*    |           |
