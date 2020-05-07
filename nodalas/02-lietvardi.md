@@ -99,6 +99,8 @@ Bet:
 | **v** / **vj**  | *plikgalvis* → *plikgalvja*<br/>*rīve* → *rīvju* |
 | **sn** / **šņ** | *aploksne* → *aplokšņu*<br/>*krāsns* → *krāšņu*  |
 
+Dažos vārdos nav mijas, skatī zemāk.
+
 ## I deklinācija
 
 Bez galotnes vienskaitļa vokatīvā:
@@ -126,17 +128,29 @@ Bez galotnes vienskaitļa vokatīvā:
 
 ### Otri izņēmumi
 
-*akmens*, *asmens*, *rudens*, *ūdens*, *zibens*, *mēness*, *suns*, *sāls*:
+*akmens*, *asmens*, *rudens*, *ūdens*, *zibens*, *mēness*, *sāls*:
 
-|       | v.s.     |
-| :-:   | :-:      |
-| **N** | ***-s*** |
-| **Ģ** | ***-s*** |
-| **D** | *-im*    |
-| **A** | *-i*     |
-| **I** | *ar -i*  |
-| **L** | *-ī*     |
-| **V** | *-i*     |
+|       | v.s.         |
+| :-:   | :-:          |
+| **N** | *akmen**s*** |
+| **Ģ** | *akmen**s*** |
+| **D** | *akmenim*    |
+| **A** | *akmeni*     |
+| **I** | *ar akmeni*  |
+| **L** | *akmenī*     |
+| **V** | *akmeni*     |
+
+*suns*:
+
+|       | v.s.       | dz.s.       |
+| :-:   | :-:        | :-:         |
+| **N** | *sun**s*** | *suņi*      |
+| **Ģ** | *suņa*     | *suņu*      |
+| **D** | *sunim*    | *suņiem*    |
+| **A** | *suni*     | *suņ**u***  |
+| **I** | *ar suni*  | *ar suņiem* |
+| **L** | *sunī*     | *suņos*     |
+| **V** | *suni*     | *suņi*      |
 
 *brālītis* → *brālīt!*
 
