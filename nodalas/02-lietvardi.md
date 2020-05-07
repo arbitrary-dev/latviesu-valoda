@@ -25,8 +25,7 @@ Lietvārdi
 #### Vienskaitļa vokatīvā nav galotnes:
 
 Deminutīviem un pirmās deklinācijas lietvārdiem,
-kuri vienskaitļa nominatīvā beidzas ar:
-
+kuri vienskaitļa nominatīvā beidzas ar:  
 *-tājs*, *-ājs*, *-ējs*, *-nieks*
 
 *māsiņa* → *māsiņ!*  
