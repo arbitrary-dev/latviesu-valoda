@@ -17,7 +17,7 @@ Vietniekvārdi
 | **A** | *pašu*  | *pašu*  | *pašus*  | *pašas* |
 | **L** | *pašā*  | *pašā*  | *pašos*  | *pašās* |
 
-\* vienskaitlis / daudzskaitlis, vīriešu / sieviešu dzimte
+\* **v**ienskaitlis / dau**dz**skaitlis, **v**īriešu / **s**ieviešu dzimte
 
 |       | v.v.          | v.s.            | dz.v.   | dz.s.   |
 | ---   | ---           | ---             | ---     | ---     |
