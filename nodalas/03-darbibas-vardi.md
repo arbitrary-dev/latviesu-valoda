@@ -10,6 +10,8 @@ Darbības vārdi
   - [būt](#būt)
   - [iet](#iet)
   - [dot](#dot)
+- [Palīgdarbības vārdi](#palīgdarbības-vārdi)
+  - [tikt](#tikt)
 - [Priedēkļi](#priedēkļi)
   - [Gramatiski](#gramatiski)
   - [Leksiski](#leksiski)
@@ -78,6 +80,32 @@ Māmiņas sevišķas sniegpārsliņas
 | v.v. | *dod*   | *deva*  | *dos*             |
 | mēs  | *dodam* | *devām* | *dosim*           |
 | jūs  | *dodat* | *devāt* | *dosit*, *dosiet* |
+
+Palīgdarbības vārdi
+-------------------
+
+Teikumā tiem parasti nav pilnīgas leksiskās nozīmes, tos lieto salikto laiku un
+ciešamās kārtas formu veidošanā.
+
+### *tikt*
+
+|      | Tagadne  | Pagātne | Nākotne   |
+| ---  | ---      | ---     | ---       |
+| es   | *tieku*  | *tiku*  | *tikšu*   |
+| tu   | *tiec*   | *tiki*  | *tiksi*   |
+| v.v. | *tiek*   | *tika*  | *tiks*    |
+| mēs  | *tiekam* | *tikām* | *tiksim*  |
+| jūs  | *tiekat* | *tikāt* | *tiksiet* |
+
+Ciešamā kārta izsaka darbību, kuras veicējs teikumā nav minēts.
+Ciešamo kārtu veido, savienojot palīga darbības vārdu tikt
+un pagātnes ciešamās kārtas divdabi ar -ts.
+
+Saliktos laikos palīga darbības vārds (ticis, tieku, utt.)
+parasti tiek izlaists.
+
+*tiek zīmēts*  
+*Tu **tiksi** ar to galā.*
 
 Priedēkļi
 ---------
