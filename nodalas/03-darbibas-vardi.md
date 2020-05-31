@@ -12,6 +12,7 @@ Darbības vārdi
   - [dot](#dot)
 - [Palīgdarbības vārdi](#palīgdarbības-vārdi)
   - [tikt](#tikt)
+  - [tapt](#tapt)
 - [Priedēkļi](#priedēkļi)
   - [Gramatiski](#gramatiski)
   - [Leksiski](#leksiski)
@@ -106,6 +107,19 @@ parasti tiek izlaists.
 
 *tiek zīmēts*  
 *Tu **tiksi** ar to galā.*
+
+### *tapt*
+
+|      | Tagadne | Pagātne | Nākotne   |
+| ---  | ---     | ---     | ---       |
+| es   | *topu*  | *tapu*  | *tapšu*   |
+| tu   | *topi*  | *tapi*  | *tapsi*   |
+| v.v. | *top*   | *tapa*  | *taps*    |
+| mēs  | *topam* | *tapām* | *tapsim*  |
+| jūs  | *topat* | *tapāt* | *tapsiet* |
+
+*Viņš pareizi pēc "JLP Talk" radio šovs **top** mācīts un izglītots.*  
+*No mazām lietām lielas lietas **top**.*
 
 Priedēkļi
 ---------
