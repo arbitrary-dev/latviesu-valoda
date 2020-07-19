@@ -31,6 +31,7 @@ mēģinā izprast teksta vispārējo nozīmi
 8. [Īpašības vārdi](nodalas/08-ipasibas-vardi.md)
 9. [Runāšanas](nodalas/09-runasanas.md)
 10. [Gadskārtas](nodalas/10-gadskartas.md)
+11. **TODO** saīsinājumi
 
 ## Paldies
 

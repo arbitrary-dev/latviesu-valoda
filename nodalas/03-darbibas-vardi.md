@@ -7,10 +7,10 @@ Darbības vārdi
   - [Tiešie](#tiešie)
   - [Atgriezeniskie](#atgriezeniskie)
 - [Māmiņas sevišķas sniegpārsliņas](#māmiņas-sevišķas-sniegpārsliņas)
-  - [būt](#būt)
   - [iet](#iet)
   - [dot](#dot)
 - [Palīgdarbības vārdi](#palīgdarbības-vārdi)
+  - [būt](#būt)
   - [tikt](#tikt)
   - [tapt](#tapt)
 - [Priedēkļi](#priedēkļi)
@@ -49,19 +49,6 @@ citos 90% gadījumos nav *-i*
 Māmiņas sevišķas sniegpārsliņas
 -------------------------------
 
-### *būt*
-
-|      | Tagadne                   | Pagātne | Nākotne                        |
-| ---  | ---                       | ---     | ---                            |
-| es   | *esmu*                    | *biju*  | *būšu*                         |
-| tu   | *esi*                     | *biji*  | *būsi*                         |
-| v.v. | *ir* / *nav* <sup>1</sup> | *bija*  | *būs*                          |
-| mēs  | *esam*                    | *bijām* | *būsim*                        |
-| jūs  | *esat*                    | *bijāt* | *būsit*, *būsiet* <sup>2</sup> |
-
-<sup>1</sup> visos citos gadījumos negācijai izmantots priedēkli *ne-*  
-<sup>2</sup> oldskūlīgi
-
 ### *iet*
 
 |      | Tagadne | Pagātne | Nākotne           |
@@ -85,8 +72,30 @@ Māmiņas sevišķas sniegpārsliņas
 Palīgdarbības vārdi
 -------------------
 
-Teikumā tiem parasti nav pilnīgas leksiskās nozīmes, tos lieto salikto laiku un
-ciešamās kārtas formu veidošanā.
+Teikumā tiem parasti nav pilnīgas leksiskās nozīmes, tos lieto ciešamās kārtas
+formu veidošanā:
+
+Vienkāršais laiks: *Rozes **tika** stādītas*  
+Saliktais laiks: *Rozes **bija** stādītas*
+
+### *būt*
+
+|      | Tagadne                   | Pagātne | Nākotne                        |
+| ---  | ---                       | ---     | ---                            |
+| es   | *esmu*                    | *biju*  | *būšu*                         |
+| tu   | *esi*                     | *biji*  | *būsi*                         |
+| v.v. | *ir* / *nav* <sup>1</sup> | *bija*  | *būs*                          |
+| mēs  | *esam*                    | *bijām* | *būsim*                        |
+| jūs  | *esat*                    | *bijāt* | *būsit*, *būsiet* <sup>2</sup> |
+
+<sup>1</sup> visos citos gadījumos negācijai izmantots priedēkli *ne-*  
+<sup>2</sup> oldskūlīgi
+
+Ja saliktajos laikos gan darāmajā, gan ciešamajā kārtā palīgdarbības vārds *būt*
+ir tagadnes trešajā personā jeb "ir", tekstā to mēdz izlaist.
+
+*Dārznieks **ir** iestādījis skaistas rozes → Dārznieks iestādījis skaistas rozes*  
+*Roze **ir** iestādīta īstajā vietā → Roze iestādīta īstajā vietā*
 
 ### *tikt*
 
@@ -98,14 +107,13 @@ ciešamās kārtas formu veidošanā.
 | mēs  | *tiekam* | *tikām* | *tiksim*  |
 | jūs  | *tiekat* | *tikāt* | *tiksiet* |
 
-Ciešamā kārta izsaka darbību, kuras veicējs teikumā nav minēts.
-Ciešamo kārtu veido, savienojot palīga darbības vārdu tikt
-un pagātnes ciešamās kārtas divdabi ar -ts.
+Ciešamo kārtu veido, savienojot palīgdarbības vārdu *tikt*
+un pagātnes ciešamās kārtas divdabi ar izskaņu *-ts*, *-ta*.
 
 Saliktos laikos palīga darbības vārds (ticis, tieku, utt.)
 parasti tiek izlaists.
 
-*tiek zīmēts*  
+*Glezna **tiek** pašzīmēta.*  
 *Tu **tiksi** ar to galā.*
 
 ### *tapt*
