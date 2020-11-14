@@ -34,12 +34,11 @@ mēģinā izprast teksta vispārējo nozīmi
 
 ## Paldies
 
-1. [Latvijas universitātes matemātikas un informātikas institūta mākslīgā intelekta laboratorija](
+- [Latvijas universitātes matemātikas un informātikas institūta mākslīgā intelekta laboratorija](
    http://valoda.ailab.lv/latval/vispareji/lgraml-w/lgraml.htm)
-2. [Mācāmies latviešu valodu](http://mlv.id.lv/lv/grammar/text/index.html)
-3. [Letonika.lv](https://www.letonika.lv/groups/default.aspx?title=morphology.htm)
-4. [Latvian Oxford living dictionaries](https://lv.oxforddictionaries.com)
-5. [Dina Ezeriņa. Latviešu valodas pašmācība iesācējiem](
+- [Mācāmies latviešu valodu](http://mlv.id.lv/lv/grammar/text/index.html)
+- [Letonika.lv](https://www.letonika.lv/groups/default.aspx?title=morphology.htm)
+- [Dina Ezeriņa. Latviešu valodas pašmācība iesācējiem](
    http://www.zvaigzne.lv/lv/gramatas/apraksts/91753-latviesu_valodas_pasmaciba_iesacejiem_cd_samoucitelj_latisskogo_jazika_dlja_nacinausih.html)
-6. [Mensarius](http://mensarius.lv/index.php/lv/kursi-un-cenas)
-7. [Uzdevumi.lv](https://www.uzdevumi.lv/p/latviesu-valoda)
+- [Mensarius](http://mensarius.lv/index.php/lv/kursi-un-cenas)
+- [Uzdevumi.lv](https://www.uzdevumi.lv/p/latviesu-valoda)
