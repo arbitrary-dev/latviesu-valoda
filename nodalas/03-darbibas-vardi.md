@@ -145,6 +145,10 @@ Priedēkļi
 
 #### *aiz-*
 
+\+ uz  
+\+ no  
+\+ līdz
+
 |                                                                                |                                                                       |
 | ---                                                                            | ---                                                                   |
 | *Katrs trešais jaunietis Krievijā sapņo **aiz**braukt un nekad neatgriezties.* | Darbība notiek, attālinoties vai virzoties uz mērķi.                  |
@@ -160,6 +164,8 @@ Priedēkļi
 
 #### *ap-*
 
+\+ apkārt (ap)
+
 |                 |                                                                    |
 | ---             | ---                                                                |
 | ***ap**iet*     | Darbība notiek kaut kam apkārt, daļēji vai pilnīgi kaut ko aptver. |
@@ -170,6 +176,10 @@ Priedēkļi
 | ***ap**gulties* | Norāda uz darbības pabeigtību.                                     |
 
 #### *at-*
+
+\+ uz  
+\+ no  
+\+ līdz
 
 |                          |                                                                    |
 | ---                      | ---                                                                |
@@ -190,6 +200,8 @@ Priedēkļi
 
 #### *ie-*
 
+\+ Lokatīvs
+
 |                           |                                                                      |
 | ---                       | ---                                                                  |
 | ***ie**braukt*            | Darbība notiek virzienā uz iekšu.                                    |
@@ -203,6 +215,9 @@ Priedēkļi
 | ***ie**ēdināt*            | Norāda, ka ar darbību ietekmē sev par labu.                          |
 
 #### *iz-*
+
+\+ no  
+\+ cauri (caur)
 
 |                                             |                                                |
 | ---                                         | ---                                            |
@@ -219,6 +234,12 @@ Priedēkļi
 
 #### *no-*
 
+\+ no  
+\+ uz  
+\+ zem  
+\+ pie  
+\+ aiz
+
 |                              |                                                 |
 | ---                          | ---                                             |
 | ***no**braukt* (no kalna)    | Darbība vērsta uz leju.                         |
@@ -232,17 +253,23 @@ Priedēkļi
 
 #### *pa-*
 
-|                        |                                                    |
-| ---                    | ---                                                |
-| ***pa**bāzt*           | Darbība virzās vai virza kaut ko zem kā, apakš kā. |
-| ***pa**braukt* (garām) | Darbība notiek, virzoties kaut kam garām.          |
-| ***pa**runāt*          | Norāda uz darbības ierobežotību, neilgo laiku.     |
-| ***pa**ēst*            | Norāda uz darbības pabeigtību.                     |
-| ***pa**sprukt*         | Kaut ko atbrīvo, palaiž vaļā.                      |
-| ***pa**pildināt*       | Izsaka darbības pakāpenisku kāpinājumu.            |
-| ***pa**stāvēt*         | Norāda, ka darbība turpinās un ir noturīga.        |
+\+ garām  
+\+ uz priekšu
+
+|                              |                                                    |
+| ---                          | ---                                                |
+| ***pa**bāzt*                 | Darbība virzās vai virza kaut ko zem kā, apakš kā. |
+| ***pa**braukt garām muzejam* | Darbība notiek, virzoties kaut kam garām.          |
+| ***pa**runāt*                | Norāda uz darbības ierobežotību, neilgo laiku.     |
+| ***pa**ēst*                  | Norāda uz darbības pabeigtību.                     |
+| ***pa**sprukt*               | Kaut ko atbrīvo, palaiž vaļā.                      |
+| ***pa**pildināt*             | Izsaka darbības pakāpenisku kāpinājumu.            |
+| ***pa**stāvēt*               | Norāda, ka darbība turpinās un ir noturīga.        |
 
 #### *pār-*
+
+\+ pāri (pār)  
+\+ no … uz
 
 |                           |                                                         |
 | ---                       | ---                                                     |
@@ -263,6 +290,8 @@ Priedēkļi
 | ***pār**stāt*             | Izsaka darbības pabeigtību.                             |
 
 #### *pie-*
+
+\+ pie
 
 |                              |                                                                   |
 | ---                          | ---                                                               |
@@ -290,12 +319,17 @@ Priedēkļi
 
 #### *uz-*
 
-|                        |                                |
-| ---                    | ---                            |
-| ***uz**līmēt*          | Darbība vērsta uz kaut ko.     |
-| ***uz**braukt (kalnā)* | Darbība vērsta uz augšu.       |
-| ***uz**ziedēt*         | Norāda uz darbības sākumu.     |
-| ***uz**rakstīt*        | Norāda uz darbības pabeigtību. |
+\+ uz
+
+|                                   |                                |
+| ---                               | ---                            |
+| ***uz**likt\* kompresi uz galvas* | Darbība vērsta uz kaut ko.     |
+| ***uz**braukt (kalnā)*            | Darbība vērsta uz augšu.       |
+| ***uz**ziedēt*                    | Norāda uz darbības sākumu.     |
+| ***uz**rakstīt*                   | Norāda uz darbības pabeigtību. |
+
+\* Atšķirība starp "*nolikt uz*" un "*uzlikt uz*" ir tā, ka pēdējais tiek
+izmantots, ja vēlaties uzsvērt objekta nedabisko atrašanās vietu.
 
 ### Dubultā
 
