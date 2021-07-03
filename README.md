@@ -8,7 +8,7 @@ Tātad, sāksim!
 
 ## Kā mācīties
 
-1. Izmanto [tulkotāju](https://translate.google.lv/#lv/en/Gudrinieks!)
+1. Izmanto [tulkotāju](https://deepl.com/translator#lv/en/Gudrinieks!)
 2. Lejupielādē [GoldenDict](http://goldendict.org) un [latviešu vārdnīcu](
 http://www.babylon-software.com/free-dictionaries/languages/latvian)
 3. Lejupielādē [Anki](https://apps.ankiweb.net) un latviešu valodu
