@@ -32,6 +32,9 @@ deklinācijas lietvārdus.
 
 <sup>1</sup> vienskaitlis / daudzskaitlis, vīriešu / sieviešu dzimte
 
+**TODO:** always after *kāds*, *tāds*, *šāds*, *dažs* pronouns  
+**TODO:** adjective expresses common knowledge
+
 ## Noteiktā galotne
 
 Īpašības vārdus ar noteikto galotni loka īpatnēji.
@@ -52,6 +55,10 @@ Vārdiem ar izskaņu *-ējs* ir atšķirt galotnes, piemēram *vidējs*:
 | **D** | *vidēj**am***   | *vidēj**ai***   | *vidēj**iem***    | *vidēj**ām***    |
 | **I** | *ar vidēj**o*** | *ar vidēj**o*** | *ar vidēj**iem*** | *ar vidēj**ām*** |
 | **L** | *vidēj**ā***    | *vidēj**ā***    | *vidēj**os***     | *vidēj**ās***    |
+
+**TODO:** 3 sure cases for definite ending in adjective  
+**TODO:** *kāds*, *tāds*, *šāds*, *dažs* pronouns exception  
+**TODO:** implicit pronouns
 
 ## Pārākā pakāpe
 
