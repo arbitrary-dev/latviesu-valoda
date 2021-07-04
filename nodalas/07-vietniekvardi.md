@@ -1,6 +1,13 @@
 Vietniekvārdi
 =============
 
+**TODO:** content
+
+Personu
+-------
+
+**TODO:** list
+
 |       |         |         |         |         |         |
 | ---   | ---     | ---     | ---     | ---     | ---     |
 | **N** | *es*    | *tu*    | *mēs*   | *jūs*   | –       |
@@ -9,23 +16,38 @@ Vietniekvārdi
 | **A** | *mani*  | *tevi*  | *mūs*   | *jūs*   | *sevi*  |
 | **L** | *manī*  | *tevī*  | *mūsos* | *jūsos* | *sevī*  |
 
-|       | v.v.\*  | v.s.    | dz.v.    | dz.s.   |
-| ---   | ---     | ---     | ---      | ---     |
-| **N** | *pats*  | *pati*  | *paši*   | *pašas* |
-| **Ģ** | *paša*  | *pašas* | *pašu*   | *pašu*  |
-| **D** | *pašam* | *pašai* | *pašiem* | *pašām* |
-| **A** | *pašu*  | *pašu*  | *pašus*  | *pašas* |
-| **L** | *pašā*  | *pašā*  | *pašos*  | *pašās* |
+Atgriezeniskais
+---------------
 
-\* **v**ienskaitlis / dau**dz**skaitlis, **v**īriešu / **s**ieviešu dzimte
+**TODO:** list
 
-|       | v.v.          | v.s.            | dz.v.   | dz.s.   |
+|       |         |
+| ---   | ---     |
+| **N** | –       |
+| **Ģ** | *sevis* |
+| **D** | *sev*   |
+| **A** | *sevi*  |
+| **L** | *sevī*  |
+
+Piederības
+---------
+
+**TODO:** list
+
+Norādāmie
+---------
+
+**TODO:** list
+
+|       | v.v.\*        | v.s.            | dz.v.   | dz.s.   |
 | ---   | ---           | ---             | ---     | ---     |
 | **N** | *šis*         | *šī*            | *šie*   | *šīs*   |
 | **Ģ** | *šī* / *šā*\* | *šīs* / *šās*\* | *šo*    | *šo*    |
 | **D** | *šim*         | *šai*           | *šiem*  | *šīm*   |
 | **A** | *šo*          | *šo*            | *šos*   | *šīs*   |
 | **L** | *šajā*        | *šajā*          | *šajos* | *šajās* |
+
+\* **v**ienskaitlis / dau**dz**skaitlis, **v**īriešu / **s**ieviešu dzimte
 
 \* reti lietoti
 
@@ -43,3 +65,36 @@ Vietniekvārdi
 1. Norāda uz, piem., dzīvu būtni, priekšmetu, parādību,
 kas vietas vai laika ziņā atrodas tālāk no runātāja
 2. Norāda uz ko iepriekš minētu
+
+Jautājamie
+----------
+
+**TODO:** list
+
+Attieksmes
+---------
+
+**TODO:** list
+
+Nenoteiktie
+---------
+
+**TODO:** list
+
+Noteiktie
+---------
+
+**TODO:** list
+
+|       | v.v.    | v.s.    | dz.v.    | dz.s.   |
+| ---   | ---     | ---     | ---      | ---     |
+| **N** | *pats*  | *pati*  | *paši*   | *pašas* |
+| **Ģ** | *paša*  | *pašas* | *pašu*   | *pašu*  |
+| **D** | *pašam* | *pašai* | *pašiem* | *pašām* |
+| **A** | *pašu*  | *pašu*  | *pašus*  | *pašas* |
+| **L** | *pašā*  | *pašā*  | *pašos*  | *pašās* |
+
+Noliegtie
+---------
+
+**TODO:** list
