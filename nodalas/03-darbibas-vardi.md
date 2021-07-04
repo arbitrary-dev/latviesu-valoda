@@ -6,6 +6,7 @@ Darbības vārdi
 - [Deklinācijas](#deklinācijas)
   - [Tiešie](#tiešie)
   - [Atgriezeniskie](#atgriezeniskie)
+- [Saliktā tagadne](#saliktā-tagadne)
 - [Māmiņas sevišķas sniegpārsliņas](#māmiņas-sevišķas-sniegpārsliņas)
   - [iet](#iet)
   - [dot](#dot)
