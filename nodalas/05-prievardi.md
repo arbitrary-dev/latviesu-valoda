@@ -18,6 +18,8 @@ Piemēri
 
 ### Ar ģenitīvu
 
+**TODO:** full sentences
+
 aiz pagrieziena  
 ārpus pilsētas  
 bez atvaļinājuma  
@@ -35,6 +37,8 @@ zem gultas
 
 ### Ar akuzatīvu
 
+**TODO:** full sentences
+
 ap galdu  
 ar kolēģi, ar mašīnu, ar pildspalvu  
 caur mežu  
@@ -46,7 +50,11 @@ pret viedokli
 starp skapi un gultu  
 uz veikalu, uz sanāksmi
 
+**TODO:** Bet *pāri*, *cauri*, *apkārt* (+ Datīvs)
+
 ### Ar datīvu
+
+**TODO:** full sentences
 
 apkārt stadionam  
 blakus teātrim  
