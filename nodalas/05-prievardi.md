@@ -48,5 +48,11 @@ uz veikalu, uz sanāksmi
 
 ### Ar datīvu
 
+apkārt stadionam  
+blakus teātrim  
+cauri mežam  
+garām piemineklim  
 attālums līdz šķautnei  
-pa naktīm
+pa naktīm  
+pāri peļķei  
+pretī kafejnīcai
