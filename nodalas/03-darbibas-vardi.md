@@ -46,6 +46,18 @@ citos 90% gadījumos nav *-i*
 <sup>3</sup> tikai *dziedāt* un *raudāt*  
 <sup>4</sup> jūtu darbības vārdi
 
+Saliktā tagadne
+---------------
+
+**TODO:** 3 uses  
+**TODO:** complex sentences use  
+**TODO:** unnecessary *būt*  
+**TODO:** *kādreiz*, *nekad* hints  
+**TODO:** construction (ordinary + reflexive)  
+**TODO:** double use *būt*  
+**TODO:** *k*/*c* & *g*/*dz* changes  
+**TODO:** *-is*/*-ies* exceptions
+
 Māmiņas sevišķas sniegpārsliņas
 -------------------------------
 
