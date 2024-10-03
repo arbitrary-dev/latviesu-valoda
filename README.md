@@ -10,7 +10,7 @@ Tātad, sāksim!
 
 1. Izmanto [tulkotāju](https://deepl.com/translator#lv/en/Gudrinieks!)
 2. Lejupielādē [GoldenDict](http://goldendict.org) un [latviešu vārdnīcu](
-http://www.babylon-software.com/free-dictionaries/languages/latvian)
+https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FLATVIAN)
 3. Lejupielādē [Anki](https://apps.ankiweb.net) un latviešu valodu
 [kāršu komplektu](https://ankiweb.net/shared/info/387126451)
 4. Reģistrē Rīgas domes
